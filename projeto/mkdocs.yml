@@ -1,6 +1,4 @@
-site_name: Sistemas multiagentes 
+site_name: Sistema Multiagentes
 
 nav:
-  - Página inicial: index.md
-
-  
+ - página inicial: index.md
