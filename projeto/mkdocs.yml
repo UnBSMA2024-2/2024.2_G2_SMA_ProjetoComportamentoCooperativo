@@ -1,0 +1,5 @@
+site_name: Sistemas Multiagentes
+
+nav:
+ - página inicial: index.md
+ - módulo investigativo: m1.md
