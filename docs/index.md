@@ -4,16 +4,56 @@
 **Número do Grupo**: 02<br>
 
 # **Alunos**
-| Matrícula | Nome                                      | Nick no GitHub                                          |                                    📸                                      |
-| :-------: | ----------------------------------------- | ------------------------------------------------------- | :-----------------------------------------------------------------------:  |
-| 211061850 | Henrique Azevedo Batalha                  | [HeBatalha](https://github.com/HeBatalha)               | <img src="https://avatars.githubusercontent.com/u/101186218?v=4" width=60> |
-| 211061903 | Isaque Santos                             | [IsaqueSH](https://github.com/IsaqueSH)                 | <img src="https://avatars.githubusercontent.com/u/101431986?v=4" width=60> |
-| 190058048 | Lara Giuliana Lima dos Santos             | [gravelylara](https://github.com/gravelylara)           | <img src="https://avatars.githubusercontent.com/u/118694498?v=4" width=60> |
-| 200023985 | Maria Eduarda dos Santos Marques          | [EduardaSMarques](https://github.com/EduardaSMarques)   | <img src="https://avatars.githubusercontent.com/u/79334692?v=4" width=60>  |
-| 200041606 | Marina Márcia Costa de Souza              | [The-Boss-Nina](https://github.com/The-Boss-Nina)       | <img src="https://avatars.githubusercontent.com/u/58699832?v=4" width=60>  |
-| 231011810 | Rodrigo Ferreira do Amaral                | [rodrigoFAmaral](https://github.com/rodrigoFAmaral)     | <img src="https://avatars.githubusercontent.com/u/28201919?v=4" width=60>  |
+<table style="font-size: 16px;">
+  <thead>
+    <tr>
+      <th>Matrícula</th>
+      <th>Nome</th>
+      <th>Nick no GitHub</th>
+      <th>📸</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>211061850</td>
+      <td>Henrique Azevedo Batalha</td>
+      <td><a href="https://github.com/HeBatalha">HeBatalha</a></td>
+      <td><img src="https://avatars.githubusercontent.com/u/101186218?v=4" width="60"></td>
+    </tr>
+    <tr>
+      <td>211061903</td>
+      <td>Isaque Santos</td>
+      <td><a href="https://github.com/IsaqueSH">IsaqueSH</a></td>
+      <td><img src="https://avatars.githubusercontent.com/u/101431986?v=4" width="60"></td>
+    </tr>
+    <tr>
+      <td>190058048</td>
+      <td>Lara Giuliana Lima dos Santos</td>
+      <td><a href="https://github.com/gravelylara">gravelylara</a></td>
+      <td><img src="https://avatars.githubusercontent.com/u/118694498?v=4" width="60"></td>
+    </tr>
+    <tr>
+      <td>200023985</td>
+      <td>Maria Eduarda dos Santos Marques</td>
+      <td><a href="https://github.com/EduardaSMarques">EduardaSMarques</a></td>
+      <td><img src="https://avatars.githubusercontent.com/u/79334692?v=4" width="60"></td>
+    </tr>
+    <tr>
+      <td>200041606</td>
+      <td>Marina Márcia Costa de Souza</td>
+      <td><a href="https://github.com/The-Boss-Nina">The-Boss-Nina</a></td>
+      <td><img src="https://avatars.githubusercontent.com/u/58699832?v=4" width="60"></td>
+    </tr>
+    <tr>
+      <td>231011810</td>
+      <td>Rodrigo Ferreira do Amaral</td>
+      <td><a href="https://github.com/rodrigoFAmaral">rodrigoFAmaral</a></td>
+      <td><img src="https://avatars.githubusercontent.com/u/28201919?v=4" width="60"></td>
+    </tr>
+  </tbody>
+</table>
 
-# **Sobre** 
+# **Sobre**
 <p align="justify">
 &emsp;&emsp;O projeto Sistema de Monitoramento de Drones será uma aplicação desenvolvida em Java que utilizará o framework JADE (Java Agent DEvelopment Framework) para criar um sistema multiagente voltado para o gerenciamento inteligente de entregas por drones. 
 </p>
