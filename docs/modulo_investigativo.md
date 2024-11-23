@@ -20,7 +20,21 @@
 
 <h6 align="center">Tabela 01: Histórico de Versão</h6>
 
-| Versão | Data       | Descrição            | Autor(es)                                           | Revisor(es) |
-| ------ | ---------- | -------------------- | --------------------------------------------------- | ----------- |
-| `1.0`  | 20/11/2024 | Criação do arquivo | [Marina Márcia](https://github.com/The-Boss-Nina) | [Maria Eduarda Marques](https://github.com/EduardaSMarques) |
-
+<div style="overflow-x:auto; text-align: center;">
+  <table style="margin-left: auto; margin-right: auto;">
+    <tr>
+      <th>Versão</th>
+      <th>Data</th>
+      <th>Descrição</th>
+      <th>Autor(es)</th>
+      <th>Revisor(es)</th>
+    </tr>
+    <tr>
+      <td><code>1.0</code></td>
+      <td>20/11/2024</td>
+      <td>Criação do arquivo</td>
+      <td><a href="https://github.com/The-Boss-Nina">Marina Márcia</a></td>
+      <td><a href="https://github.com/EduardaSMarques">Maria Eduarda Marques</a></td>
+    </tr>
+  </table>
+</div>
