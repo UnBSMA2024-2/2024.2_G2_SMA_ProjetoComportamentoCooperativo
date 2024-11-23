@@ -1,5 +1,8 @@
 site_name: Sistemas Multiagentes
 
+theme:
+  name: material
+
 nav:
  - página inicial: index.md
  - página módulo investigativo: m1.md
