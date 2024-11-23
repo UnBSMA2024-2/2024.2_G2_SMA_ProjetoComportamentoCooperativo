@@ -3,6 +3,9 @@ site_name: Sistemas Multiagentes
 theme:
   name: material
 
+extra_javascript:
+  - js/toggle-theme.js
+
 nav:
  - página inicial: index.md
  - página módulo investigativo: m1.md
