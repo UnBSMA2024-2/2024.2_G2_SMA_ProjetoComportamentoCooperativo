@@ -28,12 +28,12 @@
       color: #000; /* Cor padrão para modo claro */
     }
 
-    /* Alteração para o modo escuro */
-    @media (prefers-color-scheme: dark) {
-      thead th {
-        color: #888; /* Apenas os cabeçalhos em cinza no modo escuro */
-      }
+  /* Alteração para o modo escuro */
+  @media (prefers-color-scheme: dark) {
+    .tabela-alunos thead th {
+      color: #888; /* Cor cinza apenas para os títulos no modo escuro */
     }
+  }
 
     /* Espaçamento adicional para textos abaixo das tabelas */
     .section-text {
