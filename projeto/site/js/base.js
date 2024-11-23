@@ -23,6 +23,12 @@ function applyTopPadding() {
 }
 
 document.addEventListener("DOMContentLoaded", function () {
+    // Remove o Table of Contents (ToC) ao carregar a página
+    var toc = document.querySelector('#toc-collapse');
+    if (toc) {
+        toc.remove(); // Remove o ToC da página
+    }
+
     var search_term = getSearchTerm();
     var search_modal = new bootstrap.Modal(document.getElementById('mkdocs_search_modal'));
     var keyboard_modal = new bootstrap.Modal(document.getElementById('mkdocs_keyboard_modal'));
