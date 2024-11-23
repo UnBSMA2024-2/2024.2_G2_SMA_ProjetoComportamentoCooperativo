@@ -2,9 +2,13 @@ site_name: Sistemas Multiagentes
 
 theme:
   name: material
-
+  
+  features:
+    - toc.integrate
+  
 extra_javascript:
   - js/toggle-theme.js
+  
 
 nav:
  - Página Inicial: index.md
