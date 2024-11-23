@@ -16,7 +16,7 @@
 
 # **Sobre** 
 <p align="justify">
-&emsp;&emsp;O projeto **Sistema de Monitoramento de Drones** será uma aplicação desenvolvida em **Java** que utilizará o framework **JADE** (*Java Agent DEvelopment Framework*) para criar um sistema multiagente voltado para o gerenciamento inteligente de entregas por drones. 
+&emsp;&emsp;O projeto _Sistema de Monitoramento de Drones_ será uma aplicação desenvolvida em _Java_ que utilizará o framework _JADE_ (_Java Agent DEvelopment Framework_) para criar um sistema multiagente voltado para o gerenciamento inteligente de entregas por drones. 
 </p>
 <p align="justify">
 &emsp;&emsp;Esse sistema será projetado para explorar a eficiência da comunicação e coordenação entre agentes, permitindo a execução de entregas de maneira otimizada e inteligente. A principal funcionalidade será o gerenciamento de múltiplos agentes que colaborarão em tempo real para distribuir tarefas, otimizar rotas e lidar com imprevistos, garantindo alto desempenho no processo logístico.
