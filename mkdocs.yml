@@ -7,5 +7,5 @@ extra_javascript:
   - js/toggle-theme.js
 
 nav:
- - página inicial: index.md
- - página módulo investigativo: m1.md
+ - Página Inicial: index.md
+ - Módulo Investigativo: modulo_investigativo.md
