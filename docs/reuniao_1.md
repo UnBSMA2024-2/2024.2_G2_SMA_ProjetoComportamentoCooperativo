@@ -149,7 +149,7 @@
             <a href="https://github.com/The-Boss-Nina" target="_blank">Marina Márcia Costa de Souza</a> e 
             <a href="https://github.com/rodrigoFAmaral" target="_blank">Rodrigo Ferreira do Amaral</a>
           </td>
-          <td><a href="https://github.com/issue_link" target="_blank">Issue #123</a></td>
+          <td><a href="https://github.com/issue_link" target="_blank">Issue #2</a></td>
         </tr>
       </tbody>
     </table>
