@@ -24,5 +24,7 @@ theme:
   
 
 nav:
- - Página Inicial: index.md
- - Módulo Investigativo: modulo_investigando.md
+  - Página Inicial: index.md
+  - Módulo Investigando: modulo_investigando.md
+  - Reuniões:
+      - Primeira Reunião: reuniao_1.md

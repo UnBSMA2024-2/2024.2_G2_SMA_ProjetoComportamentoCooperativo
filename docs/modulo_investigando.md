@@ -155,7 +155,7 @@
       </tbody>
     </table>
     <p style="margin-top: 10px; text-align: center;">
-      <em>Tabela criada por <a href="https://github.com/The-Boss-Nina" target="_blank">Marina Márcia</a>.</em>
+      <em>Tabela criada por <a href="https://github.com/The-Boss-Nina" target="_blank">SOUZA, Marina</a>. 2024.</em>
     </p>
   </div>
 
@@ -178,16 +178,16 @@
       </thead>
       <tbody>
         <tr>
-          <td><code>1.0</code></td>
+          <td>1.0</td>
           <td>20/11/2024</td>
           <td>Criação do arquivo</td>
-          <td><a href="https://github.com/The-Boss-Nina" target="_blank">Marina Márcia</a></td>
-          <td><a href="https://github.com/EduardaSMarques" target="_blank">Maria Eduarda Marques</a></td>
+          <td><a href="https://github.com/The-Boss-Nina" target="_blank">Marina Márcia Costa de Souza</a></td>
+          <td><a href="https://github.com/EduardaSMarques" target="_blank">Maria Eduarda dos Santos Marques</a></td>
         </tr>
       </tbody>
     </table>
     <p style="margin-top: 10px; text-align: center;">
-      <em>Tabela criada por <a href="https://github.com/The-Boss-Nina" target="_blank">Marina Márcia</a>.</em>
+      <em>Tabela criada por <a href="https://github.com/The-Boss-Nina" target="_blank">SOUZA, Marina</a>. 2024.</em>
     </p>
   </div>
 </body>
