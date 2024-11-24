@@ -26,6 +26,5 @@ theme:
 nav:
   - Página Inicial: index.md
   - Módulo Investigando: modulo_investigando.md
-  - Tabela Henrique: investigacao_henrique.md
   - Reuniões:
       - Primeira Reunião: reuniao_1.md
