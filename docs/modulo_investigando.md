@@ -62,7 +62,9 @@
   Segue uma tabela que exemplifica os principais temas e abordagens relacionados à Pesquisa Bibliográfica.
   </p>
 
-  <h6 align="center">Tabela 01: Exemplos de Pesquisa Bibliográfica</h6>
+<h2 style="font-weight: bold; margin-top: 30px; margin-bottom: 20px;">Pesquisa Bibliográfica na Prática - Henrique Azevedo Batalha</h2>
+<p align="justify">
+<h6 align="center">Tabela 01: Pesquisa Bibliográfica na Prática</h6>
   <div style="text-align: center;">
     <table>
       <thead>
@@ -70,7 +72,7 @@
           <th>#</th>
           <th>Etapa</th>
           <th>Descrição</th>
-          <th>Exemplo</th>
+          <th>Resultado</th>
         </tr>
       </thead>
       <tbody>
@@ -78,86 +80,164 @@
           <td>1</td>
           <td>Estabelecer o Tema</td>
           <td>Defina o foco principal da pesquisa.</td>
-          <td>Sistemas Multiagentes Comportamentais</td>
+          <td>Sistemas Multiagentes Comportamentais.
+            <ul>
+              <li>Motivação: Foi concluído por análise que o repositório que desejamos utilizar como base se trata de um sistema multiagente comportamental.</li>
+            </ul>
+          </td>
         </tr>
         <tr>
           <td>2</td>
           <td>Especificar uma Questão de Pesquisa</td>
           <td>Elabore uma pergunta que guiará a investigação.</td>
-          <td>Quais os principais diferenciais dos Sistemas Multiagentes Comportamentais?</td>
+          <td>Sistemas Multiagentes Comportamentais X Sistemas Multiagentes Colaborativos.
+            <ul>
+              <li>Motivação: Sistemas Multiagentes Colaborativos foi um aspecto interessante  não explorado dentro do repositório. Por isso devemos considerá-lo como candidato.</li>
+            </ul>
+          </td>
         </tr>
         <tr>
           <td>3</td>
           <td>Identificar Palavras-chave</td>
           <td>Liste os termos mais relevantes para busca.</td>
-          <td>Agentes de Software, Sistema Multiagentes, Behavior</td>
+          <td>Multiagentes Comportamentais, Multiagente Comportamental,  Behaviour Multiagent, Agente Colaborativo, Agente Cooperação, Agent Cooperation, Agent Collaborative, Drone.</td>
         </tr>
         <tr>
           <td>4</td>
           <td>Identificar Autores Relevantes</td>
           <td>Pesquise os principais especialistas na área.</td>
-          <td>Jacques Ferber, Gerhard Weiss</td>
+          <td>Frank L. Lewis.</td>
         </tr>
         <tr>
           <td>5</td>
           <td>Estabelecer Strings de Busca</td>
           <td>Monte combinações de palavras-chave.</td>
-          <td>"Sistema Multiagentes" E "Comportamento"</td>
+          <td>
+            <ul>
+              <li>“Sistemas Multiagentes" E "Comportamental" E “Drones” .</li>
+              <li>“Multiagent” AND “Behavioral” AND “Drones” .</li>
+            </ul>
+          </td>
         </tr>
         <tr>
           <td>6</td>
           <td>Escolher Bases Científicas</td>
           <td>Selecione as bases onde realizará as buscas.</td>
-          <td>IEEE, ACM, Scopus</td>
+          <td>Google Acadêmico e Periódicos Capes.</td>
         </tr>
         <tr>
           <td>7</td>
           <td>Realizar as Buscas</td>
           <td>Execute as buscas utilizando as strings.</td>
-          <td>"Behavioral Multiagent System"</td>
+          <td>----------------------------------</td>
         </tr>
         <tr>
           <td>8</td>
           <td>Manter Rastreabilidade</td>
           <td>Registre base consultada, strings e filtros aplicados.</td>
-          <td>IEEE, Intervalo: 2015–2024</td>
+          <td>----------------------------------</td>
         </tr>
         <tr>
           <td>9</td>
           <td>Estabelecer Critérios de Inclusão</td>
           <td>Defina critérios para selecionar referências.</td>
-          <td>Citar Jacques Ferber, mencionar Multiagentes</td>
+          <td>Escrito em português ou inglês.</td>
         </tr>
         <tr>
           <td>10</td>
           <td>Estabelecer Critérios de Exclusão</td>
           <td>Defina critérios para descartar referências irrelevantes.</td>
-          <td>Menos de 5 citações, idiomas não suportados</td>
+          <td>Não ser relacionado com drones.</td>
         </tr>
         <tr>
           <td>11</td>
           <td>Aplicar Critérios</td>
           <td>Filtre as referências com base nos critérios.</td>
-          <td>Selecionadas: 20, Excluídas: 5</td>
+          <td>Selecionadas: 8, Excluídas: 3.
+            <ul>
+              <li>Sistema Multiagente para Formação e Sincronização Utilizando Drones.</li>
+              <li>Avaliação de Protocolos de Controle Cooperativo em VANT’s.</li>
+              <li><s>Simulação Multiagentes em Áreas Atingidas por Terremotos com Focos de Incêndio.</s></li>
+              <li>A Decentralized Multilevel Agent Based Explainable Model for Fleet Management of Remote Drones.</li>
+              <li>A multi-agent approach to the truck multi-drone routing problem.</li>
+              <li>Imitation Learning of Complex Behaviors for Multiple Drones with Limited Vision.</li>
+              <li><s>Learning Communication for Cooperation in Dynamic Agent-Number Environment.</s></li>
+              <li><s>Self-triggered distributed model predictive control for flocking of multi-agent systems.</s></li>
+            </ul>
+          </td>
         </tr>
         <tr>
           <td>12</td>
           <td>Ler Resumos</td>
           <td>Leia e refine a seleção das referências.</td>
-          <td>Mantidas: 15, Descartadas: 5</td>
+          <td>Mantidas: 3, Descartadas: 2.
+            <ul>
+              <li>Sistema Multiagente para Formação e Sincronização Utilizando Drones.</li>
+                <ul>
+                  <li>Focado mais na cooperação entre agentes drones para a movimentação conjunta de drones em formação.</li>
+                </ul>
+              <li>Avaliação de Protocolos de Controle Cooperativo em VANT’s.</li>
+                <ul>
+                  <li>Mesmos autores e tema do artigo anterior. Mais recente, pode ser útil para compreender mais o conteúdo.</li>
+                </ul>
+              <li><s>A Decentralized Multilevel Agent Based Explainable Model for Fleet Management of Remote Drones.</s></li>
+                <ul>
+                  <li>Parece mais voltado à interação entre o sistema e seres humanos.</li>
+                </ul>
+              <li>A multi-agent approach to the truck multi-drone routing problem.</li>
+                <ul>
+                  <li>Relaciona o uso de drones com o problema do caixeiro viajante.</li>
+                </ul>
+              <li><s>Imitation Learning of Complex Behaviors for Multiple Drones with Limited Vision.</s></li>
+                <ul>
+                  <li>O artigo trata do comportamento de um enxame de drones descentralizado dependentes apenas de uma câmera frontal, sem comunicação entre eles.</li>
+                </ul>
+            </ul>
+          </td>
         </tr>
         <tr>
           <td>13</td>
           <td>Apresentar Referências Finais</td>
-          <td>Compile e apresente as referências selecionadas.</td>
-          <td>IEEE, Gerhard Weiss, 2024</td>
+<td>Compile e apresente as referências selecionadas.</td>
+<td>
+    <ul>
+        <li>
+            de Sá, Denis F. Sousa. "Sistema Multiagente para Formação e Sincronização Utilizando Drones." Congresso Brasileiro de Automática-CBA. Vol. 2. No. 1. 2020.
+            <ul>
+                <li><a href="https://sba.org.br/open_journal_systems/index.php/cba/article/view/1129" target="_blank">https://sba.org.br/open_journal_systems/index.php/cba/article/view/1129</a></li>
+            </ul>
+        </li>
+        <li>
+            De Sá, Denis Fabrício Sousa, and João Viana Da Fonseca Neto. "Avaliação de Protocolos de Controle Cooperativo em VANT’s." ENGENHARIAS-AUTOMAÇÃO, ROBÓTICA, METROLOGIA E ENERGIA: ESTUDOS E TENDÊNCIAS-VOLUME 1. Vol. 1. Editora Científica Digital, 2023.
+            <ul>
+                <li><a href="https://downloads.editoracientifica.com.br/articles/230111668.pdf" target="_blank">https://downloads.editoracientifica.com.br/articles/230111668.pdf</a></li>
+            </ul>
+        </li>
+        <li>
+            Leon-Blanco, Jose Miguel, et al. "A multi-agent approach to the truck multi-drone routing problem." Expert Systems with Applications 195 (2022): 116604.
+            <ul>
+                <li><a href="https://www.sciencedirect.com/science/article/pii/S0957417422000975" target="_blank">https://www.sciencedirect.com/science/article/pii/S0957417422000975</a></li>
+            </ul>
+        </li>
+     </ul>
+      </td>
         </tr>
       </tbody>
     </table>
+    </p>
     <p style="margin-top: 10px; text-align: center;">
-      <em>Tabela criada por <a href="https://github.com/The-Boss-Nina" target="_blank">SOUZA, Marina</a>. 2024.</em>
+      <em>Tabela criada por <a href="https://github.com/HeBatalha" target="_blank">BATALHA, Henrique</a>. 2024.</em>
     </p>
   </div>
+
+    &emsp;&emsp;Em suma, as referências finais consistem de dois temas relacionados com sistemas multiagentes com drones, apesar de se tratarem de objetivos diferentes não significa que os dois temas não possam ser aproveitados e utilizados em conjunto para o projeto da disciplina.
+  </p>
+  <p align="justify">
+    &emsp;&emsp;O primeiro tema que consiste de dois artigos aborda a organização de um conjunto de drones em uma formação de movimento, nos artigos estão presentes diversas fórmulas matemáticas usadas para a base teórica além conceitos de liderança e formação utilizados. Por isso, apesar do objetivo final dos dois artigos talvez não ser o mais relevante para os objetivos do grupo, esses artigos possuem diversos conceitos e conteúdos que podem vir a ser utilizados em outras aplicações do grupo.
+  </p>
+  <p align="justify">
+    &emsp;&emsp;O segundo tema aborda a utilização de sistemas multiagentes dentro de um problema chamado Truck-multi-Drone Team Logistics Problem que é uma variação do problema do caixeiro viajante. O que varia entre esse problema de sua versão original é que consideramos um caminhão que carrega alguns drones, em cada ponto visitado esses drones podem viajar autonomamente e visitar outros pontos, mas eles possuem bateria limitada, ou seja, devem voltar para o caminhão para recarga. Um ponto interessante do artigo é que ele faz referência a muitos outros artigos similares que exploram variações desse problema, como o caso de apenas os drones fazerem as entregas e o caminhão servir apenas como uma estação de recarga, ou como no caso de cada drone ser capaz de fazer apenas uma única entrega. Com isso, o artigo apresenta diversas qualidades favoráveis para servir como base para a pesquisa do projeto, pois além de ser bastante completo no que se refere a ideias aplicáveis, conta com uma extensa base de referências, o que facilita a identificação de novas fontes de conteúdo, caso necessário.
+  </p>
 
 
 <h2 style="font-weight: bold; margin-top: 30px; margin-bottom: 20px;">Pesquisa Bibliográfica na Prática - Maria Eduarda dos Santos Marques</h2>
@@ -307,6 +387,12 @@
           <td><a href="https://github.com/EduardaSMarques" target="_blank">Maria Eduarda dos Santos Marques</a></td>
           <td><a href="https://github.com/The-Boss-Nina" target="_blank">Marina Márcia Costa de Souza</a></td>
         </tr>
+        <tr>
+          <td>1.2</td>
+          <td>24/11/2024</td>
+          <td>Criação do subtópico Pesquisa Bibliográfica na Prática - Henrique Azevedo Batalha e Tabela 01: Pesquisa Bibliográfica na Prática.</td>
+          <td><a href="https://github.com/HeBatalha" target="_blank">Henrique Azevedo Batalha</a></td>
+          <td><a href="https://github.com/IsaqueSH" target="_blank">Isaque Santos</a></td>
       </tbody>
     </table>
     <p style="margin-top: 10px; text-align: center;">
