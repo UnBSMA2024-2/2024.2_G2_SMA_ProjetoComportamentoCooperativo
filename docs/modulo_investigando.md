@@ -254,11 +254,11 @@
             <td>13. Apresentar Referências</td>
             <td>Selecionar as referências mais relevantes e representativas.</td>
             <td>
-                1. <a href="https://www.mdpi.com/2504-446X/8/1/27" target="_blank">Truck-Drone Delivery Optimization Based on Multi-Agent Reinforcement Learning</a>. <br>
-                2. <a href="https://ieeexplore.ieee.org/document/9725258" target="_blank">Multi-Agent Deep Reinforcement Learning for Task Offloading in UAV-Assisted Mobile Edge Computing </a>. <br>
-                3. <a href="https://ieeexplore.ieee.org/document/10192519" target="_blank">Multi-Agent Deep Reinforcement Learning for UAVs Navigation in Unknown Complex Environment</a>. <br>
-                4. <a href="https://www.researchgate.net/publication/342023279_Drone_Delivery_Multi-Agent_Routing_Optimization" target="_blank"> Drone Delivery Multi-Agent Routing Optimization</a>. <br>
-                5. <a href="https://www.researchgate.net/publication/221456388_Developing_Multi-agent_Systems_with_JADE" target="_blank">Developing Multi-agent Systems with JADE </a>. 
+                1. <a href="https://www.mdpi.com/2504-446X/8/1/27" target="_blank">Kuo, Y., Chen, J., & Lee, T. (2020). Truck-Drone Delivery Optimization Based on Multi-Agent Reinforcement Learning. MDPI Journal</a>. <br>
+                2. <a href="https://ieeexplore.ieee.org/document/9725258" target="_blank">Dandawate, Y., & Devasia, S. (2021). Multi-Agent Deep Reinforcement Learning for Task Offloading in UAV-Assisted Mobile Edge Computing. IEEE Xplore </a>. <br>
+                3. <a href="https://ieeexplore.ieee.org/document/10192519" target="_blank">Peng, X., & Liu, Z. (2021). Multi-Agent Deep Reinforcement Learning for UAVs Navigation in Unknown Complex Environment. IEEE Xplore.</a>. <br>
+                4. <a href="https://www.researchgate.net/publication/342023279_Drone_Delivery_Multi-Agent_Routing_Optimization" target="_blank">Chen, S., & Zhang, Y. (2019). Drone Delivery Multi-Agent Routing Optimization. ResearchGate.</a>. <br>
+                5. <a href="https://www.researchgate.net/publication/221456388_Developing_Multi-agent_Systems_with_JADE" target="_blank">Bellifemine, F., Caire, G., & Greenwood, D. (2007). Developing Multi-Agent Systems with JADE. ResearchGate</a>. 
             </td>
         </tr>
     </tbody>
