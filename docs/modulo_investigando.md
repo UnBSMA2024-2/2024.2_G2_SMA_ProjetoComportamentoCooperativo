@@ -160,15 +160,15 @@
   </div>
 
 
-<h2 style="font-weight: bold; margin-top: 30px; margin-bottom: 20px;">Pesquisa Bibliográfica na prática</h2>
+<h2 style="font-weight: bold; margin-top: 30px; margin-bottom: 20px;">Pesquisa Bibliográfica na Prática - Maria Eduarda dos Santos Marques</h2>
 <p align="justify">
     &emsp;&emsp;Nesta pesquisa, foram consultadas as principais bases de dados acadêmicas, incluindo IEEE Xplore, Scopus e Google Acadêmico, para identificar estudos que abordam o tema 
     "Sistema multiagente de gerenciamento de entregas de drones em JAVA utilizando JADE". Apesar de não haver artigos que tratem diretamente desse tema específico, os resultados obtidos 
     destacam diferentes aspectos relacionados, como o uso de sistemas multiagentes no gerenciamento de drones e a aplicação de frameworks como JADE no desenvolvimento de sistemas distribuídos. 
-    Abaixo, na tabela 2, estão os principais artigos encontrados, que formam uma base valiosa para o aprofundamento nesse campo de estudo.
+    Abaixo, na Tabela 4, estão os principais artigos encontrados, que formam uma base valiosa para o aprofundamento nesse campo de estudo.
 </p>
 
-<h6 align="center">Tabela 02: Pesquisa Bibliográfica prática</h6>
+<h6 align="center">Tabela 04: Pesquisa Bibliográfica na Prática</h6>
 <div style="text-align: center;">
   <table border="1">
     <thead>
@@ -264,7 +264,7 @@
     </tbody>
 </table>
 <p style="margin-top: 10px; text-align: center;">
-      <em>Tabela criada por <a href="https://github.com/EduardaSMarques" target="_blank">Maria Eduarda Marques</a>.</em>
+      <em>Tabela criada por <a href="https://github.com/EduardaSMarques" target="_blank">MARQUES, Maria</a>. 2024.</em>
     </p>
   </div>
 
@@ -280,7 +280,7 @@
   A tabela 02 representa o histórico de versão do documento.
   </p>
 
-  <h6 align="center">Tabela 02: Histórico de Versão</h6>
+  <h6 align="center">Tabela 07: Histórico de Versão</h6>
   <div style="text-align: center;">
     <table>
       <thead>
@@ -296,16 +296,16 @@
         <tr>
           <td>1.0</td>
           <td>20/11/2024</td>
-          <td>Criação do arquivo</td>
+          <td>Criação do arquivo.</td>
           <td><a href="https://github.com/The-Boss-Nina" target="_blank">Marina Márcia Costa de Souza</a></td>
           <td><a href="https://github.com/EduardaSMarques" target="_blank">Maria Eduarda dos Santos Marques</a></td>
         </tr>
         <tr>
-          <td><code>1.1</code></td>
+          <td>1.1</td>
           <td>23/11/2024</td>
-          <td>Criação do conteúdo da tabela 2</td>
-          <td><a href="https://github.com/EduardaSMarques" target="_blank">Maria Eduarda Marques</a></td>
-          <td><a href="https://github.com/The-Boss-Nina" target="_blank">Marina Márcia</a></td>
+          <td>Criação do subtópico Pesquisa Bibliográfica na Prática - Maria Eduarda dos Santos Marques e Tabela 04: Pesquisa Bibliográfica na Prática.</td>
+          <td><a href="https://github.com/EduardaSMarques" target="_blank">Maria Eduarda dos Santos Marques</a></td>
+          <td><a href="https://github.com/The-Boss-Nina" target="_blank">Marina Márcia Costa de Souza</a></td>
         </tr>
       </tbody>
     </table>
