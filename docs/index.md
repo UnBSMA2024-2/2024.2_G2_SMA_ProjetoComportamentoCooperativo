@@ -1,9 +1,9 @@
-# **Sistema de Monitoramento de Drones**
+<h1 style="text-align: center; font-weight: bold;">Sistema de Monitoramento de Drones</h1>
 
 **Código da Disciplina**: FGA0134<br>
 **Número do Grupo**: 02<br>
 
-# **Alunos**
+<h1 style="font-weight: bold; margin-top: 30px; margin-bottom: 10px;">Alunos</h1>
 <style>
   /* Estilo geral para a tabela */
   .tabela-alunos {
@@ -38,7 +38,7 @@
 
   /* Espaçamento adicional para o texto abaixo da tabela */
   .sobre-texto {
-    margin-top: 40px; /* Espaçamento aumentado acima do texto */
+    margin-top: 10px; /* Espaçamento reduzido acima do texto */
   }
 </style>
 
@@ -93,7 +93,7 @@
   </table>
 </div>
 
-# **Sobre**
+<h1 style="font-weight: bold; margin-top: 30px; margin-bottom: 5px;">Sobre</h1>
 <p align="justify" class="sobre-texto">
 &emsp;&emsp;O projeto Sistema de Monitoramento de Drones será uma aplicação desenvolvida em Java que utilizará o framework JADE (Java Agent DEvelopment Framework) para criar um sistema multiagente voltado para o gerenciamento inteligente de entregas por drones. 
 </p>
