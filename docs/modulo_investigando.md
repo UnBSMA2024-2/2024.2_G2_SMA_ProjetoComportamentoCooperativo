@@ -716,15 +716,142 @@
     &emsp;&emsp;O uso de drones em sistemas de entrega, fundamentado em MASs e tecnologias como MAPF e MAPD, oferece um modelo viável, eficiente e escalável para atender demandas logísticas crescentes. Investimentos em regulamentação e infraestrutura serão cruciais para maximizar o potencial dessa tecnologia, que promete revolucionar o transporte urbano
   </p>
 
+<h2 style="font-weight: bold; margin-top: 30px; margin-bottom: 20px;">Pesquisa Bibliográfica na Prática - Lara Giuliana Lima dos Santos</h2>
 
+<p align="justify">
+    &emsp;&emsp; A pesquisa de revisão bibliográfica a seguir teve como foco a utilização de sistemas multiagentes na coordenação de drones, que de forma surpreendente tem uma utilização e produção científica bastante significativa. Leituras mais genéricas sobre sistemas multiagentes ou sistemas multiagentes comportamentais foram desconsideradas nessa pesquisa por já serem consideradas como uma base para nossos estudos
+</p>
+<h6 align="center">Tabela 06: Pesquisa Bibliográfica na prática</h6>
+  <div style="text-align: center;">
+    <table>
+      <thead>
+        <tr>
+          <th>Etapa</th>
+          <th>Descrição</th>
+          <th>Resultado</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>1. Estabelecer o Tema</td>
+          <td>Defina o foco principal da pesquisa.</td>
+          <td>Utilização de sitemas multiagentes em drones</td>
+        </tr>
+        <tr>
+          <td>2. Especificar uma Questão de Pesquisa</td>
+          <td>Elabore uma pergunta que guiará a investigação.</td>
+          <td>----------------------------------</td>
+        </tr>
+        <tr>
+          <td>3. Identificar Palavras-chave</td>
+          <td>Liste os termos mais relevantes para busca.</td>
+          <td> 
+            <h6 align="center">pt-br:</h6>
+            <p align="center">Sistema Multiagentes, Drone, Swarm, Quadricopter</p>
+            <h6 align="center">en:</h6>
+            <p align="center">Multiagent System, Drone, Swarm Quadricopter</p>
+            </td>
+          </tr>
+        <tr>
+          <td>4. Identificar Autores Relevantes</td>
+          <td>Pesquise os principais especialistas na área.</td>
+          <td>----------------------------------</td>
+        </tr>
+        <tr>
+          <td>5. Estabelecer Strings de Busca</td>
+          <td>Monte combinações de palavras-chave.</td>
+          <td>
+              <p>"Drone Multiagent System"</p>
+          </td>
+        </tr>
+        <tr>
+          <td>6. Escolher Bases Científicas</td>
+          <td>Selecione as bases onde realizará as buscas.</td>
+          <td>Google Scholar</td>
+        </tr>
+        <tr>
+          <td>7. Realizar as Buscas</td>
+          <td>Execute as buscas utilizando as strings.</td>
+          <td>----------------------------------</td>
+        </tr>
+        <tr>
+          <td>8. Manter Rastreabilidade</td>
+          <td>Registre base consultada, strings e filtros aplicados.</td>
+          <td>
+            <p>Google Scholar, Drone Multiagent System - 20.500 resultados</p>
+          </td>
+        </tr>
+        <tr>
+          <td>9. Estabelecer Critérios de Inclusão</td>
+          <td>Defina critérios para selecionar referências.</td>
+          <td>Mencionar drones, multiagentes, swarm, comportamental e estar dentro das 7 primeiras paginas do Google Scholar</td>
+        </tr>
+        <tr>
+          <td>10. Estabelecer Critérios de Exclusão</td>
+          <td>Defina critérios para descartar referências irrelevantes.</td>
+          <td>Não ter relação com drones, ou focar muito na parte de learning e optimization</td>
+        </tr>
+        <tr>
+          <td>11. Aplicar Critérios</td>
+          <td>Filtre as referências com base nos critérios.</td>
+          <td>Selecionadas: 20, Excluídas: 8</td>
+        </tr>
+        <tr>
+          <td>12. Ler Resumos</td>
+          <td>Leia e refine a seleção das referências.</td>
+          <td>Mantidas: -, Descartadas: -</td>
+        </tr>
+        <tr>
+          <td>13. Apresentar Referências Finais</td>
+          <td>Compile e apresente as referências selecionadas.</td>
+    <td>
+        <ul>
+            <li>
+                <a href="https://www.sba.org.br/open_journal_systems/index.php/cba/article/view/1129" target="_blank">
+                  SÁ, D. F. S.; NETO, J. V. F. Sistema Multiagente para Formação e Sincronização Utilizando Drones 
+                </a>
+            </li>
+            <li>
+                <a href="https://www.aimsciences.org/article/doi/10.3934/jgm.2021005" target="_blank">
+                  CARNEYL, R. et al. Multi-agent systems for quadcopters.
+                </a>
+            </li>
+            <li>
+                <a href="https://dl.acm.org/doi/abs/10.1145/3512290.3528860" target="_blank">
+                  DIXIT, G. et al. Diversifying behaviors for learning in asymmetric multiagent systems.
+                </a>
+            </li>
+            <li>
+                <a href="https://www.sciencedirect.com/science/article/pii/S0957417422000975" target="_blank">
+                  LEON-BLANCO, J. M. et al. A multi-agent approach to the truck multi-drone routing problem.
+                </a>
+            </li>
+            <li>
+                <a href="https://link.springer.com/chapter/10.1007/978-3-030-00111-7_10" target="_blank">
+                  KRAKOWCZYK, D. et al. Developing a Distributed Drone Delivery System with a Hybrid Behavior Planning System.
+                </a>
+            </li>
+        </ul>
+    </td>
+        </tr>
+      </tbody>
+    </table>
+    <p style="margin-top: 10px; text-align: center;">
+      <em>Tabela criada por <a href="https://github.com/gravelylara" target="_blank">SANTOS, Lara</a>. 2024.</em>
+    </p>
+  </div>
+
+  <p align="justify">
+    &emsp;&emsp; A utilização de drones é ampla em diversos contextos, foram encontrados artigos discorrendo sobre seu uso em <a href="https://ieeexplore.ieee.org/abstract/document/8903067"target="_blank"> monitoramento de enchentes</a> e <a href="https://link.springer.com/chapter/10.1007/978-3-319-94779-2_5"target="_blank"> agricultura de precisão</a>, além de muitos estudos sobre otimização de rotas utilizando learning. Entretanto, o foco da pesquisa foi verificar a viabilidade da utilização de drones em sistemas de entrega, o que foi bem sucedido.
+  </p>
 
 
   <h1 style="font-weight: bold; margin-top: 30px; margin-bottom: 10px;">Histórico de Versão</h1>
   <p align="justify" class="section-text">
-  A Tabela 08 representa o histórico de versão do documento.
+  A Tabela 07 representa o histórico de versão do documento.
   </p>
 
-  <h6 align="center">Tabela 06: Histórico de Versão</h6>
+  <h6 align="center">Tabela 07: Histórico de Versão</h6>
   <div style="text-align: center;">
     <table>
       <thead>
@@ -757,27 +884,35 @@
           <td>Criação do subtópico Pesquisa Bibliográfica na Prática - Henrique Azevedo Batalha e Tabela 01: Pesquisa Bibliográfica na Prática.</td>
           <td><a href="https://github.com/HeBatalha" target="_blank">Henrique Azevedo Batalha</a></td>
           <td><a href="https://github.com/IsaqueSH" target="_blank">Isaque Santos</a></td>
-       </tr>
-         <tr>
+        </tr>
+        <tr>
           <td>1.3</td>
           <td>24/11/2024</td>
           <td>Criação do subtópico Pesquisa Bibliográfica na Prática - Rodrigo Ferreira do Amaral e Tabela 05: Pesquisa Bibliográfica na Prática.</td>
           <td><a href="https://github.com/rodrigoFAmaral" target="_blank">Rodrigo Ferreira do Amaral</a></td>
           <td><a href="https://github.com/EduardaSMarques" target="_blank">Maria Eduarda dos Santos Marques</a></a></td>
-       </tr>
-        <tr>
-        <td>1.4</td>
-        <td>24/11/2024</td>
-        <td>Criação do subtópico Pesquisa Bibliográfica na Prática - Marina Márcia Costa de Souza e Tabela 04: Pesquisa Bibliográfica na Prática.</td>
-        <td><a href="https://github.com/The-Boss-Nina" target="_blank">Marina Márcia Costa de Souza</a></td>
-        <td><a href="https://github.com/HeBatalha" target="_blank">Henrique Azevedo Batalha</a></td>
         </tr>
         <tr>
-        <td>1.5</td>
-        <td>24/11/2024</td>
-        <td>Criação do subtópico Pesquisa Bibliográfica na Prática - Isaque Santos e Tabela 02: Pesquisa Bibliográfica na Prática.</td>
-        <td><a href="https://github.com/IsaqueSH" target="_blank">Isaque Santos</a></td>
-        <td><a href="https://github.com/The-Boss-Nina" target="_blank">Marina Márcia Costa de Souza</a></td>
+          <td>1.4</td>
+          <td>24/11/2024</td>
+          <td>Criação do subtópico Pesquisa Bibliográfica na Prática - Marina Márcia Costa de Souza e Tabela 04: Pesquisa Bibliográfica na Prática.</td>
+          <td><a href="https://github.com/The-Boss-Nina" target="_blank">Marina Márcia Costa de Souza</a></td>
+          <td><a href="https://github.com/HeBatalha" target="_blank">Henrique Azevedo Batalha</a></td>
+        </tr>
+        <tr>
+          <td>1.5</td>
+          <td>24/11/2024</td>
+          <td>Criação do subtópico Pesquisa Bibliográfica na Prática - Isaque Santos e Tabela 02: Pesquisa Bibliográfica na Prática.</td>
+          <td><a href="https://github.com/IsaqueSH" target="_blank">Isaque Santos</a></td>
+          <td><a href="https://github.com/The-Boss-Nina" target="_blank">Marina Márcia Costa de Souza</a></td>
+        </tr>
+        <tr>
+          <td>1.6</td>
+          <td>25/11/2024</td>
+          <td>Criação do subtópico Pesquisa Bibliográfica na Prática - Lara Giuliana Lima dos Santos e Tabela 06: Pesquisa Bibliográfica na Prática.</td>
+          <td><a href="https://github.com/gravelylara" target="_blank">Lara Giuliana</a></td>
+          <td><a href="https://github.com/The-Boss-Nina" target="_blank">Marina Márcia Costa de Souza</a></td>
+        </tr>
       </tbody>
     </table>
     <p style="margin-top: 10px; text-align: center;">
