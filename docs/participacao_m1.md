@@ -74,9 +74,9 @@
         </tr>
         <tr>
           <td><a href="https://github.com/gravelylara" target="_blank">Lara Giuliana Lima dos Santos</a></td>
-          <td></td>
-          <td></td>
-          <td></td>
+          <td>Criação do subtópico Pesquisa Bibliográfica na Prática - Lara Giuliana Lima dos Santos e Tabela 03: Pesquisa Bibliográfica na Prática</td>
+          <td>Excelente</td>
+          <td><a href="https://github.com/UnBSMA2024-2/Grupo2/commit/0307239ddbd7bd0ea3f9b1b485dc5fbdee0b62c3" target="_blank">add investigando</a></td>
         </tr>
         <tr>
           <td><a href="https://github.com/EduardaSMarques" target="_blank">Maria Eduarda dos Santos Marques</a></td>
