@@ -80,19 +80,19 @@
         </tr>
         <tr>
           <td><a href="https://github.com/EduardaSMarques" target="_blank">Maria Eduarda dos Santos Marques</a></td>
-          <td>Criação do subtópico Pesquisa Bibliográfica na Prática - Maria Eduarda dos Santos Marques e Tabela 03: Pesquisa Bibliográfica na Prática</td>
+          <td>Criação do subtópico Pesquisa Bibliográfica na Prática - Maria Eduarda dos Santos Marques e Tabela 04: Pesquisa Bibliográfica na Prática</td>
           <td>Excelente</td>
           <td><a href="https://github.com/UnBSMA2024-2/Grupo2/commit/4442fcf62e2af67e83922962c93a6663eeead0d9" target="_blank">[ADD] colocando a minha parte do modulo investigando</a></td>
         </tr>
         <tr>
           <td><a href="https://github.com/The-Boss-Nina" target="_blank">Marina Márcia Costa de Souza</a></td>
-          <td>Criação do subtópico Pesquisa Bibliográfica na Prática - Marina Márcia Costa de Souza e Tabela 04: Pesquisa Bibliográfica na Prática</td>
+          <td>Criação do subtópico Pesquisa Bibliográfica na Prática - Marina Márcia Costa de Souza e Tabela 05: Pesquisa Bibliográfica na Prática</td>
           <td>Excelente</td>
           <td><a href="https://github.com/UnBSMA2024-2/Grupo2/commit/ecefa0122d264e772d945338acd4a8e6a89c9baf" target="_blank">feat: adiciona tabela Marina</a></td>
         </tr>
         <tr>
           <td><a href="https://github.com/rodrigoFAmaral" target="_blank">Rodrigo Ferreira do Amaral</a></td>
-          <td>Criação do subtópico Pesquisa Bibliográfica na Prática - Rodrigo Ferreira do Amaral e Tabela 05: Pesquisa Bibliográfica na Prática</td>
+          <td>Criação do subtópico Pesquisa Bibliográfica na Prática - Rodrigo Ferreira do Amaral e Tabela 06: Pesquisa Bibliográfica na Prática</td>
           <td>Excelente</td>
           <td><a href="https://github.com/UnBSMA2024-2/Grupo2/commit/7ca8d88d98676179415465102c805f7ab6daadf4" target="_blank">feat: adiciona tabela rodrigo</a></td>
         </tr>

@@ -1,31 +1,25 @@
-# RepositorioTemplate
-Esse repositório é para ser utilizado pelos grupos como um template inicial, da home page do Projeto.
-As seções do Template NÃO DEVEM SER OMITIDAS, sendo TODAS RELEVANTES.
+# 2024.2_G2_SMA_ProjetoComportamentoEmergente
 
-**!! *Atenção: Renomeie o seu repositório para (Ano.Semestre)_(Grupo)_SMA_(NomeDaFrenteDePesquisa)*. !!** 
-
-**!! *Não coloque os nomes dos alunos no título do repositório*. !!**
-
-**!! *Exemplo de título correto: 2024.2_G1_SMA_ProjetoComportamentoEmergente*. !!**
- 
- (Apague esses comentários)
-
-# NomeDoProjeto
+# Sistema de Monitoramento de Drones
 
 **Disciplina**: FGA0134 - Sistemas Multiagentes <br>
-**Nro do Grupo (de acordo com a Planilha de Divisão dos Grupos)**: XX<br>
-**Frente de Pesquisa**: XXXXXXXXXX<br>
+**Nro do Grupo**: 02<br>
+**Frente de Pesquisa**: Coordenação e Comunicação em Sistemas Multiagentes<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 211061850	| Henrique Azevedo Batalha |	
+| 211061903	| Isaque Santos |           		
+| 190058048	| Lara Giuliana Lima dos Santos	|
+| 200023985	| Maria Eduarda dos Santos Marques	|
+| 200041606	| Marina Márcia Costa de Souza	|
+| 231011810	| Rodrigo Ferreira do Amaral |
 
 ## Sobre 
-Descreva o seu projeto em linhas gerais. 
-Use referências, links, que permitam conhecer um pouco mais sobre o projeto.
-Capriche nessa seção, pois ela é a primeira a ser lida pelos interessados no projeto.
+O projeto Sistema de Monitoramento de Drones será uma aplicação desenvolvida em Java que utilizará o framework JADE (Java Agent DEvelopment Framework) para criar um sistema multiagente voltado para o gerenciamento inteligente de entregas por drones.
+Esse sistema será projetado para explorar a eficiência da comunicação e coordenação entre agentes, permitindo a execução de entregas de maneira otimizada e inteligente. A principal funcionalidade será o gerenciamento de múltiplos agentes que colaborarão em tempo real para distribuir tarefas, otimizar rotas e lidar com imprevistos, garantindo alto desempenho no processo logístico.
+Utilizando o framework JADE, a criação, comunicação e gerenciamento de agentes será simplificada, o que proporcionará ao sistema modularidade e escalabilidade. Acreditamos que esse projeto se destacará por sua aplicação prática na logística automatizada, servindo como um exemplo de como tecnologias avançadas poderão transformar processos logísticos, trazendo maior eficiência e inovação ao mundo real.
 
 ## Screenshots
 Adicione 2 ou mais screenshots do projeto em termos de interface e/ou funcionamento.
