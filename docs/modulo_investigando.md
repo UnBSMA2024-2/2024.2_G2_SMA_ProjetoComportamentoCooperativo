@@ -218,7 +218,7 @@
       <em>Tabela criada por <a href="https://github.com/HeBatalha" target="_blank">BATALHA, Henrique</a>. 2024.</em>
     </p>
   </div>
-
+  <p align="justify">
     &emsp;&emsp;Em suma, as referências finais consistem de dois temas relacionados com sistemas multiagentes com drones, apesar de se tratarem de objetivos diferentes não significa que os dois temas não possam ser aproveitados e utilizados em conjunto para o projeto da disciplina.
   </p>
   <p align="justify">
