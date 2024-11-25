@@ -69,7 +69,6 @@
     <table>
       <thead>
         <tr>
-          <th>#</th>
           <th>Etapa</th>
           <th>Descrição</th>
           <th>Resultado</th>
@@ -77,8 +76,7 @@
       </thead>
       <tbody>
         <tr>
-          <td>1</td>
-          <td>Estabelecer o Tema</td>
+          <td>1. Estabelecer o Tema</td>
           <td>Defina o foco principal da pesquisa.</td>
           <td>Sistemas Multiagentes Comportamentais.
             <ul>
@@ -87,8 +85,7 @@
           </td>
         </tr>
         <tr>
-          <td>2</td>
-          <td>Especificar uma Questão de Pesquisa</td>
+          <td>2. Especificar uma Questão de Pesquisa</td>
           <td>Elabore uma pergunta que guiará a investigação.</td>
           <td>Sistemas Multiagentes Comportamentais X Sistemas Multiagentes Colaborativos.
             <ul>
@@ -97,20 +94,17 @@
           </td>
         </tr>
         <tr>
-          <td>3</td>
-          <td>Identificar Palavras-chave</td>
+          <td>3. Identificar Palavras-chave</td>
           <td>Liste os termos mais relevantes para busca.</td>
           <td>Multiagentes Comportamentais, Multiagente Comportamental,  Behaviour Multiagent, Agente Colaborativo, Agente Cooperação, Agent Cooperation, Agent Collaborative, Drone.</td>
         </tr>
         <tr>
-          <td>4</td>
-          <td>Identificar Autores Relevantes</td>
+          <td>4. Identificar Autores Relevantes</td>
           <td>Pesquise os principais especialistas na área.</td>
           <td>Frank L. Lewis.</td>
         </tr>
         <tr>
-          <td>5</td>
-          <td>Estabelecer Strings de Busca</td>
+          <td>5. Estabelecer Strings de Busca</td>
           <td>Monte combinações de palavras-chave.</td>
           <td>
             <ul>
@@ -120,38 +114,32 @@
           </td>
         </tr>
         <tr>
-          <td>6</td>
-          <td>Escolher Bases Científicas</td>
+          <td>6. Escolher Bases Científicas</td>
           <td>Selecione as bases onde realizará as buscas.</td>
           <td>Google Acadêmico e Periódicos Capes.</td>
         </tr>
         <tr>
-          <td>7</td>
-          <td>Realizar as Buscas</td>
+          <td>7. Realizar as Buscas</td>
           <td>Execute as buscas utilizando as strings.</td>
           <td>----------------------------------</td>
         </tr>
         <tr>
-          <td>8</td>
-          <td>Manter Rastreabilidade</td>
+          <td>8. Manter Rastreabilidade</td>
           <td>Registre base consultada, strings e filtros aplicados.</td>
           <td>----------------------------------</td>
         </tr>
         <tr>
-          <td>9</td>
-          <td>Estabelecer Critérios de Inclusão</td>
+          <td>9. Estabelecer Critérios de Inclusão</td>
           <td>Defina critérios para selecionar referências.</td>
           <td>Escrito em português ou inglês.</td>
         </tr>
         <tr>
-          <td>10</td>
-          <td>Estabelecer Critérios de Exclusão</td>
+          <td>10. Estabelecer Critérios de Exclusão</td>
           <td>Defina critérios para descartar referências irrelevantes.</td>
           <td>Não ser relacionado com drones.</td>
         </tr>
         <tr>
-          <td>11</td>
-          <td>Aplicar Critérios</td>
+          <td>11. Aplicar Critérios</td>
           <td>Filtre as referências com base nos critérios.</td>
           <td>Selecionadas: 8, Excluídas: 3.
             <ul>
@@ -167,8 +155,7 @@
           </td>
         </tr>
         <tr>
-          <td>12</td>
-          <td>Ler Resumos</td>
+          <td>12. Ler Resumos</td>
           <td>Leia e refine a seleção das referências.</td>
           <td>Mantidas: 3, Descartadas: 2.
             <ul>
@@ -196,8 +183,7 @@
           </td>
         </tr>
         <tr>
-          <td>13</td>
-          <td>Apresentar Referências Finais</td>
+          <td>13. Apresentar Referências Finais</td>
 <td>Compile e apresente as referências selecionadas.</td>
 <td>
     <ul>
@@ -248,14 +234,14 @@
     Abaixo, na Tabela 4, estão os principais artigos encontrados, que formam uma base valiosa para o aprofundamento nesse campo de estudo.
 </p>
 
-<h6 align="center">Tabela 04: Pesquisa Bibliográfica na Prática</h6>
+<h6 align="center">Tabela 04: Pesquisa Bibliográfica na Prática </h6>
 <div style="text-align: center;">
   <table border="1">
     <thead>
         <tr>
             <th>Etapa</th>
             <th>Descrição</th>
-            <th> Pesquisa na prática</th>
+            <th> Resultado</th>
         </tr>
     </thead>
     <tbody>
@@ -354,10 +340,121 @@
     e exploração futura desse tema específico, integrando as práticas e conceitos apresentados nos trabalhos analisados.
 </p>
 
+<h2 style="font-weight: bold; margin-top: 30px; margin-bottom: 20px;">Pesquisa Bibliográfica na Prática - Rodrigo Amaral</h2>
+
+<p align="justify">
+    &emsp;&emsp; A evolução da logística impulsionada por tecnologias emergentes tem possibilitado soluções inovadoras, como o uso de drones para entrega de produtos. Esse modelo é viabilizado por sistemas multiagentes (MASs) e por técnicas como Multi-Agent Path Finding (MAPF) e Multi-Agent Pickup and Delivery (MAPD), que coordenam rotas e tarefas em ambientes dinâmicos. Este estudo explora como essas abordagens podem ser aplicadas, destacando métodos de funcionamento e vantagens no contexto urbano.
+</p>
+<h6 align="center">Tabela 06: Pesquisa Bibliográfica na prática</h6>
+  <div style="text-align: center;">
+    <table>
+      <thead>
+        <tr>
+          <th>Etapa</th>
+          <th>Descrição</th>
+          <th>Resultado</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>1. Estabelecer o Tema</td>
+          <td>Defina o foco principal da pesquisa.</td>
+          <td>Sistemas Multiagentes Comportamentais</td>
+        </tr>
+        <tr>
+          <td>2. Especificar uma Questão de Pesquisa</td>
+          <td>Elabore uma pergunta que guiará a investigação.</td>
+          <td>----------------------------------</td>
+        </tr>
+        <tr>
+          <td>3. Identificar Palavras-chave</td>
+          <td>Liste os termos mais relevantes para busca.</td>
+          <td> 
+            <h6 align="center">pt-br:</h6>
+            <p align="center">Sistema Multiagentes, Sistema Multiagentes Comportamental, Comportamento, Características, Drone, Entrega, Navegação, Coleta e entrega em multiagentes</p>
+            <h6 align="center">en:</h6>
+            <p align="center">Software Agent, Multiagent System, Behavioral Multiagent System, Behavior, Features, Drones, Delivery, Navigation, Multi-Agent Pickup-and-Delivery</p>
+            </td>
+          </tr>
+        <tr>
+          <td>4. Identificar Autores Relevantes</td>
+          <td>Pesquise os principais especialistas na área.</td>
+          <td>----------------------------------</td>
+        </tr>
+        <tr>
+          <td>5. Estabelecer Strings de Busca</td>
+          <td>Monte combinações de palavras-chave.</td>
+          <td>
+              <p>Behavioral Multiagent System</p>
+              <p>multi agent delivery</p>
+              <p>multiagentes + drone + monitoramento</p>
+          </td>
+        </tr>
+        <tr>
+          <td>6. Escolher Bases Científicas</td>
+          <td>Selecione as bases onde realizará as buscas.</td>
+          <td>Google Scholar</td>
+        </tr>
+        <tr>
+          <td>7. Realizar as Buscas</td>
+          <td>Execute as buscas utilizando as strings.</td>
+          <td>----------------------------------</td>
+        </tr>
+        <tr>
+          <td>8. Manter Rastreabilidade</td>
+          <td>Registre base consultada, strings e filtros aplicados.</td>
+          <td>
+            <p>Google Scholar, Behavioral Multiagent System - 88.100 resultados</p>
+            <p>Google Scholar, multi agent delivery - 2.740.000 resultados</p>
+            <p>Google Scholar, multiagentes + drone + monitoramento - 47 resultados</p>
+          </td>
+        </tr>
+        <tr>
+          <td>9. Estabelecer Critérios de Inclusão</td>
+          <td>Defina critérios para selecionar referências.</td>
+          <td>Mencionar drones, multiagentes, estar dentro das 5 primeiras paginas do Google Scholar</td>
+        </tr>
+        <tr>
+          <td>10. Estabelecer Critérios de Exclusão</td>
+          <td>Defina critérios para descartar referências irrelevantes.</td>
+          <td>Fuga do tema, sem relação a drones</td>
+        </tr>
+        <tr>
+          <td>11. Aplicar Critérios</td>
+          <td>Filtre as referências com base nos critérios.</td>
+          <td>Selecionadas: 15, Excluídas: 5</td>
+        </tr>
+        <tr>
+          <td>12. Ler Resumos</td>
+          <td>Leia e refine a seleção das referências.</td>
+          <td>Mantidas: 10, Descartadas: 5</td>
+        </tr>
+        <tr>
+          <td>13. Apresentar Referências Finais</td>
+          <td>Compile e apresente as referências selecionadas.</td>
+          <td>
+              <p>SYCARA, K. P. Multiagent Systems . AI Magazine, [S. l.], v. 19, n. 2, p. 79, 1998. DOI: 10.1609/aimag.v19i2.1370. Disponível em: https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/1370. Acesso em: 24 nov. 2024</p>
+              <p>SALZMAN, Oren; STERN, Roni. Research challenges and opportunities in multi-agent path finding and multi-agent pickup and delivery problems. In: Proceedings of the 19th International Conference on Autonomous Agents and MultiAgent Systems. 2020. p. 1711-1715.</p>
+              <p>MA, Hang et al. Lifelong multi-agent path finding for online pickup and delivery tasks. arXiv preprint arXiv:1705.10868, 2017.</p>
+              <p>LIU, Minghua et al. Task and path planning for multi-agent pickup and delivery. In: Proceedings of the International Joint Conference on Autonomous Agents and Multiagent Systems (AAMAS). 2019.</p>
+              <p>CHAVES, Áquila Neves. Proposta de modelo de veículos aéreos não tripulados (VANTs) cooperativos aplicados a operações de busca. 2013. Tese de Doutorado. Universidade de São Paulo.</p>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p style="margin-top: 10px; text-align: center;">
+      <em>Tabela criada por <a href="https://github.com/rodrigoFAmaral" target="_blank">AMARAL, Rodrigo</a>. 2024.</em>
+    </p>
+  </div>
+
+  <p align="justify">
+    &emsp;&emsp;O uso de drones em sistemas de entrega, fundamentado em MASs e tecnologias como MAPF e MAPD, oferece um modelo viável, eficiente e escalável para atender demandas logísticas crescentes. Investimentos em regulamentação e infraestrutura serão cruciais para maximizar o potencial dessa tecnologia, que promete revolucionar o transporte urbano
+  </p>
+
 
   <h1 style="font-weight: bold; margin-top: 30px; margin-bottom: 10px;">Histórico de Versão</h1>
   <p align="justify" class="section-text">
-  A tabela 02 representa o histórico de versão do documento.
+  A tabela 07 representa o histórico de versão do documento.
   </p>
 
   <h6 align="center">Tabela 07: Histórico de Versão</h6>
@@ -393,6 +490,14 @@
           <td>Criação do subtópico Pesquisa Bibliográfica na Prática - Henrique Azevedo Batalha e Tabela 01: Pesquisa Bibliográfica na Prática.</td>
           <td><a href="https://github.com/HeBatalha" target="_blank">Henrique Azevedo Batalha</a></td>
           <td><a href="https://github.com/IsaqueSH" target="_blank">Isaque Santos</a></td>
+       </tr>
+         <tr>
+          <td>1.3</td>
+          <td>24/11/2024</td>
+          <td>Criação do subtópico Pesquisa Bibliográfica na Prática - Rodrigo Amaral e Tabela 06: Pesquisa Bibliográfica na Prática.</td>
+          <td><a href="https://github.com/rodrigoFAmaral" target="_blank">Rodrigo Ferreira do Amaral</a></td>
+          <td><a href="https://github.com/EduardaSMarques" target="_blank">Maria Eduarda dos Santos Marques</a></a></td>
+       </tr>
       </tbody>
     </table>
     <p style="margin-top: 10px; text-align: center;">
