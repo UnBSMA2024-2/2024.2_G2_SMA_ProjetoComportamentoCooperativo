@@ -343,6 +343,121 @@
     e exploração futura desse tema específico, integrando as práticas e conceitos apresentados nos trabalhos analisados.
 </p>
 
+<h2 style="font-weight: bold; margin-top: 30px; margin-bottom: 20px;">Pesquisa Bibliográfica na Prática - Marina Márcia Costa de Souza</h2>
+<p align="justify">
+    &emsp;&emsp;Nesta pesquisa, foram exploradas diferentes perspectivas no uso de sistemas multiagentes no gerenciamento de drones, abordando tanto questões de formação quanto de cooperação entre agentes. Os dados coletados a partir de pesquisas realizadas em bases como IEEE Xplore e Google Scholar ajudaram a compreender como tecnologias emergentes podem ser aplicadas no contexto urbano para logística inteligente. Abaixo, na Tabela 05, estão detalhadas as etapas realizadas e os resultados alcançados.
+</p>
+
+<h6 align="center">Tabela 05: Pesquisa Bibliográfica na Prática</h6>
+<div style="text-align: center;">
+  <table border="1">
+    <thead>
+        <tr>
+            <th>Etapa</th>
+            <th>Descrição</th>
+            <th>Resultado</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1. Estabelecer o Tema</td>
+            <td>Definir o foco da pesquisa.</td>
+            <td><strong>Tema:</strong> Coordenação de Drones em Sistemas Multiagentes.</td>
+        </tr>
+        <tr>
+            <td>2. Especificar uma Questão</td>
+            <td>Estabelecer a pergunta principal e secundárias.</td>
+            <td>
+                <strong>Principal:</strong> Como coordenar drones em missões logísticas com sistemas multiagentes? <br>
+                <strong>Secundárias:</strong> Quais frameworks e técnicas são mais eficientes nesse contexto?
+            </td>
+        </tr>
+        <tr>
+            <td>3. Identificar Palavras-chave</td>
+            <td>Selecionar termos que direcionem as buscas.</td>
+            <td><strong>Palavras-chave:</strong> Multiagent Systems, Drone Logistics, JADE Framework, Cooperative Agents.</td>
+        </tr>
+        <tr>
+            <td>4. Identificar Autores</td>
+            <td>Destacar autores influentes.</td>
+            <td><strong>Autores:</strong> Jacques Ferber, Michael Wooldridge, Frank L. Lewis.</td>
+        </tr>
+        <tr>
+            <td>5. Estabelecer Strings de Busca</td>
+            <td>Construir combinações de palavras-chave.</td>
+            <td>
+                <ul>
+                    <li>"Multiagent Systems" AND "Drone Coordination"</li>
+                    <li>"Cooperative Multiagent Systems" AND "JADE Framework"</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>6. Escolher Bases Científicas</td>
+            <td>Selecionar as bases para pesquisa.</td>
+            <td><strong>Bases:</strong> IEEE Xplore, Scopus, Google Scholar.</td>
+        </tr>
+        <tr>
+            <td>7. Realizar as Buscas</td>
+            <td>Executar as buscas nas bases científicas.</td>
+            <td><strong>Resultados:</strong> 15 artigos encontrados inicialmente.</td>
+        </tr>
+        <tr>
+            <td>8. Manter Rastreabilidade</td>
+            <td>Registrar strings e resultados.</td>
+            <td>Strings, filtros aplicados (2015–2024), registros documentados.</td>
+        </tr>
+        <tr>
+            <td>9. Critérios de Inclusão</td>
+            <td>Definir critérios para seleção de artigos.</td>
+            <td>
+                <ul>
+                    <li>Publicações com foco em coordenação de drones.</li>
+                    <li>Mencionar frameworks como JADE.</li>
+                    <li>Publicações com mais de 5 citações.</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>10. Critérios de Exclusão</td>
+            <td>Definir critérios para descartar artigos irrelevantes.</td>
+            <td>
+                <ul>
+                    <li>Artigos sem relação direta com drones.</li>
+                    <li>Documentos com menos de 5 páginas.</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>11. Aplicar Critérios</td>
+            <td>Implementar os critérios para filtrar os artigos.</td>
+            <td><strong>Mantidas:</strong> 8 referências; <strong>Descartadas:</strong> 7 referências.</td>
+        </tr>
+        <tr>
+            <td>12. Ler Resumos</td>
+            <td>Revisar os resumos para confirmar relevância.</td>
+            <td>Avaliar a clareza da metodologia utilizada e a inovação apresentada nos estudos.</td>
+        </tr>
+        <tr>
+            <td>13. Apresentar Referências Finais</td>
+            <td>Selecionar os artigos mais relevantes.</td>
+            <td>
+                1. <a href="https://ieeexplore.ieee.org/document/9725258" target="_blank">Dandawate, Y., & Devasia, S. (2021). Multi-Agent Deep Reinforcement Learning for Task Offloading in UAV-Assisted Mobile Edge Computing. IEEE Xplore.</a> <br>
+                2. <a href="https://ieeexplore.ieee.org/document/10192519" target="_blank">Peng, X., & Liu, Z. (2021). Multi-Agent Deep Reinforcement Learning for UAVs Navigation in Unknown Complex Environment. IEEE Xplore.</a> <br>
+                3. <a href="https://www.mdpi.com/2504-446X/8/1/27" target="_blank">Kuo, Y., Chen, J., & Lee, T. (2020). Truck-Drone Delivery Optimization Based on Multi-Agent Reinforcement Learning. MDPI Journal.</a>
+            </td>
+        </tr>
+    </tbody>
+  </table>
+  <p style="margin-top: 10px; text-align: center;">
+      <em>Tabela criada por <a href="https://github.com/The-Boss-Nina" target="_blank">SOUZA, Marina</a>. 2024.</em>
+  </p>
+</div>
+
+<p align="justify">
+    &emsp;&emsp;Com base na pesquisa realizada, os artigos selecionados fornecem uma visão abrangente sobre sistemas multiagentes e sua aplicação no gerenciamento de drones. Esses estudos abordam questões como coordenação de tarefas, otimização de rotas e frameworks tecnológicos, sendo elementos essenciais para a fundamentação teórica e prática deste projeto.
+</p>
+
 <h2 style="font-weight: bold; margin-top: 30px; margin-bottom: 20px;">Pesquisa Bibliográfica na Prática - Rodrigo Ferreira do Amaral</h2>
 
 <p align="justify">
