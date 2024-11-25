@@ -231,7 +231,7 @@
    <h2 style="font-weight: bold; margin-top: 30px; margin-bottom: 20px;">Pesquisa Bibliográfica na Prática - Isaque Santos</h2>
 
 
-<h6 align="center">Tabela 02: Pesquisa Bibliográfica na prática</h6>
+<h6 align="center">Tabela 02: Pesquisa Bibliográfica na Prática</h6>
   <div style="text-align: center;">
     <table>
       <thead>
@@ -349,7 +349,7 @@
   </div>
 
   <p align="justify">
-    &emsp;&emsp; O primeiro link trata-se de um artigo que apresenta os sistemas multiagentes, que consistem em conjuntos de agentes autônomos que interagem entre si para resolver problemas complexos de forma cooperativa ou competitiva. Cada agente é programado para agir com base em percepções do ambiente e objetivos individuais ou coletivos, permitindo comportamentos adaptativos e emergentes.. O segundo link apresenta um artigo que tem como objetivo explorar como sistemas multiagentes de drones podem ser otimizados para realizar tarefas complexas de forma colaborativa, como busca e resgate, navegação autônoma e cobertura em ambientes dinâmicos. O trabalho investiga métodos que permitem escalar as operações para grandes quantidades de drones sem perder eficiência.
+    &emsp;&emsp; O primeiro link trata-se de um artigo que apresenta os sistemas multiagentes, que consistem em conjuntos de agentes autônomos que interagem entre si para resolver problemas complexos de forma cooperativa ou competitiva. Cada agente é programado para agir com base em percepções do ambiente e objetivos individuais ou coletivos, permitindo comportamentos adaptativos e emergentes. O segundo link apresenta um artigo que tem como objetivo explorar como sistemas multiagentes de drones podem ser otimizados para realizar tarefas complexas de forma colaborativa, como busca e resgate, navegação autônoma e cobertura em ambientes dinâmicos. O trabalho investiga métodos que permitem escalar as operações para grandes quantidades de drones sem perder eficiência.
     O terceiro link trata-se de um artigo que explora a coordenação de veículos aéreos não tripulados (UAVs) utilizando algoritmos de aprendizagem por reforço multiagente baseados em gradiente de política. O foco está em estratégias avançadas de otimização que permitem coordenação eficaz entre agentes em ambientes complexos.
   </p> 
 
