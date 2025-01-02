@@ -25,6 +25,11 @@ theme:
 
 nav:
   - Página Inicial: index.md
-  - Módulo Investigando:
+  - Módulo Investigando: 
+      - Introdução: modulo_investigando.md
       - Reunião: reuniao_1.md
       - Participações: participacao_m1.md
+  - Módulo Aplicando:
+      - Introdução: modulo_aplicando.md
+      - Reunião: reuniao_2.md
+      - Participações: participacao_m2.md
