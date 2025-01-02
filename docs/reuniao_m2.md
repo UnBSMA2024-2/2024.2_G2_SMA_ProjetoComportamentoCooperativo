@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Módulo Aplicando</title>
+  <title>Módulo Investigando</title>
   <style>
     /* Estilo geral para as tabelas */
     table {
@@ -61,15 +61,15 @@
       </thead>
       <tbody>
         <tr>
-          <td>18/12</td>
-          <td>15:00</td>
-          <td>13min0000s</td>
+          <td>20/11</td>
+          <td>10:00</td>
+          <td>15min38s</td>
           <td>Discord</td>
         </tr>
       </tbody>
     </table>
     <p style="margin-top: 10px; text-align: center;">
-      <em>Tabela 01 criada por <a href="https://github.com/The-Boss-Nina" target="_blank">SOUZA, Marina</a>. 2025.</em>
+      <em>Tabela 01 criada por <a href="https://github.com/The-Boss-Nina" target="_blank">SOUZA, Marina</a>. 2024.</em>
     </p>
   </div>
 </body>
@@ -104,11 +104,13 @@
                 <td><a href="https://github.com/IsaqueSH" target="_blank">Marina Márcia Costa de Souza</a></td>
             </tr>
             <tr>
+                <td><a href="https://github.com/rodrigoFAmaral" target="_blank">Rodrigo Ferreira do Amaral</a></td>
+            </tr>
         </tr>
       </tbody>
     </table>
     <p style="margin-top: 10px; text-align: center;">
-      <em>Tabela 02 criada por <a href="https://github.com/The-Boss-Nina" target="_blank">SOUZA, Marina</a>. 2025.</em>
+      <em>Tabela 02 criada por <a href="https://github.com/The-Boss-Nina" target="_blank">SOUZA, Marina</a>. 2024.</em>
     </p>
   </div>
 </body>
@@ -152,7 +154,7 @@
       </tbody>
     </table>
     <p style="margin-top: 10px; text-align: center;">
-      <em>Tabela 03 criada por <a href="https://github.com/The-Boss-Nina" target="_blank">SOUZA, Marina</a>. 2025.</em>
+      <em>Tabela 03 criada por <a href="https://github.com/The-Boss-Nina" target="_blank">SOUZA, Marina</a>. 2024.</em>
     </p>
   </div>
 </body>
@@ -195,7 +197,7 @@ A Tabela 04 representa o histórico de versão.
       </tbody>
     </table>
     <p style="margin-top: 10px; text-align: center;">
-      <em>Tabela 04 criada por <a href="https://github.com/The-Boss-Nina" target="_blank">SOUZA, Marina</a>. 2025.</em>
+      <em>Tabela 04 criada por <a href="https://github.com/The-Boss-Nina" target="_blank">SOUZA, Marina</a>. 2024.</em>
     </p>
   </div>
 </body>
