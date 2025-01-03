@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Sistema de Monitoramento de Drones</title>
+  <title>Sistema de Formação de Drones</title>
   <style>
     /* Estilo geral para a tabela */
     .tabela-alunos {
@@ -42,7 +42,7 @@
   </style>
 </head>
 <body>
-  <h1 style="text-align: center; font-weight: bold;">Sistema de Monitoramento de Drones</h1>
+  <h1 style="text-align: center; font-weight: bold;">Sistema de Formação de Drones</h1>
 
   <p><strong>Código da Disciplina:</strong> FGA0134<br>
   <strong>Número do Grupo:</strong> 02</p>
@@ -102,13 +102,13 @@
 
   <h1 style="font-weight: bold; margin-top: 30px; margin-bottom: 5px;">Sobre</h1>
   <p align="justify" class="sobre-texto">
-    &emsp;&emsp;O projeto <strong>Sistema de Monitoramento de Drones</strong> será uma aplicação desenvolvida em <strong>Java</strong> que utilizará o framework <strong>JADE (Java Agent DEvelopment Framework)</strong> para criar um sistema multiagente voltado para o gerenciamento inteligente de entregas por drones. 
+    &emsp;&emsp;O projeto <strong>Sistema de Formação de Drones</strong> será uma aplicação desenvolvida em <strong>Java</strong> que utilizará o framework <strong>JADE (Java Agent DEvelopment Framework)</strong> para criar um sistema multiagente voltado para o gerenciamento inteligente de formações de drones.
   </p>
   <p align="justify">
-    &emsp;&emsp;Esse sistema será projetado para explorar a eficiência da comunicação e coordenação entre agentes, permitindo a execução de entregas de maneira otimizada e inteligente. A principal funcionalidade será o gerenciamento de múltiplos agentes que colaborarão em tempo real para distribuir tarefas, otimizar rotas e lidar com imprevistos, garantindo alto desempenho no processo logístico.
+    &emsp;&emsp;Esse sistema será projetado para explorar a eficiência da comunicação e coordenação entre agentes, permitindo a organização de formações de drones de maneira otimizada e inteligente. A principal funcionalidade será o gerenciamento de múltiplos agentes que colaborarão em tempo real para organizar formações, otimizar trajetórias e lidar com imprevistos, garantindo alto desempenho em operações coletivas.
   </p>
   <p align="justify">
-    &emsp;&emsp;Utilizando o framework <strong>JADE</strong>, a criação, comunicação e gerenciamento de agentes será simplificada, o que proporcionará ao sistema modularidade e escalabilidade. Acreditamos que esse projeto se destacará por sua aplicação prática na logística automatizada, servindo como um exemplo de como tecnologias avançadas poderão transformar processos logísticos, trazendo maior eficiência e inovação ao mundo real.
+    &emsp;&emsp;Utilizando o framework <strong>JADE</strong>, a criação, comunicação e gerenciamento de agentes será simplificada, proporcionando ao sistema modularidade e escalabilidade. Acreditamos que esse projeto se destacará por sua aplicação prática em operações de drones, servindo como um exemplo de como tecnologias avançadas podem transformar operações aéreas coordenadas, trazendo maior eficiência e inovação ao mundo real.
   </p>
 </body>
 </html>
