@@ -39,8 +39,10 @@ public class ControllerAgent extends Agent {
         // Linha diagonal (completada)
         {530, 110}, {520, 120}, {510, 130}, {500, 140}, {490, 150}, {480, 160}, {470, 170},
         // Linha inferior
-        {470, 180}, {480, 180}, {490, 180}, {500, 180}, {510, 180}, {520, 180}, {530, 180},
+        {470, 180}, {480, 180}, {490, 180}, {500, 180}, {510, 180}, {520, 180}, {530, 180}        
 
+    }; 
+    private final int[][] positionsAno = {
         // INICIO do 2025
         // Numero 2
         // Linha horizontal inferior
@@ -52,12 +54,8 @@ public class ControllerAgent extends Agent {
         // Linha vertical superior
         {680, 130}, {680, 120}, {680, 110},
         // Linha horizontal superior
-        {680, 100}, {670, 100}, {660, 100}, {650, 100}, {640, 100}, {630, 100}
-
+        {680, 100}, {670, 100}, {660, 100}, {650, 100}, {640, 100}, {630, 100},
         
-
-    }; 
-    private final int[][] positionsAno = {
         // Numero 0
         // Linha horizontal inferior
         {730, 180}, {740, 180}, {750, 180}, {760, 180}, {770, 180}, {780, 180},

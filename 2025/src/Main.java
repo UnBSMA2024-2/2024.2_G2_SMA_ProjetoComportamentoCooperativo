@@ -17,7 +17,7 @@ public class Main {
             Simulation simulation = new Simulation();
 
             // Cria os drones necessários para a formação das letras F, E, L, I, Z
-            int totalDronesFeliz = 240; // Ajustado para acomodar o maior número de drones necessário para o Z
+            int totalDronesFeliz = 100; // Ajustado para acomodar o maior número de drones necessário para o Z
             for (int i = 1; i <= totalDronesFeliz; i++) {
                 mainContainer.createNewAgent("drone_FE_LIZ" + i, "DroneAgent", new Object[]{simulation}).start();
             }
