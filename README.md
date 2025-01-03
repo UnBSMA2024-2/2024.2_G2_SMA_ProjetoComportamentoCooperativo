@@ -1,5 +1,3 @@
-# 2024.2_G2_SMA_ProjetoComportamentoCooperativo
-
 # Sistema de Formação de Drones
 
 **Disciplina**: FGA0134 - Sistemas Multiagentes <br>
@@ -21,14 +19,14 @@ O Sistema de Formação de Drones será uma aplicação desenvolvida em Java uti
 Esse sistema será projetado para explorar a eficiência da comunicação e coordenação entre agentes, permitindo que múltiplos drones trabalhem juntos em tempo real para formar padrões específicos, como a letra "A". A principal funcionalidade será o gerenciamento colaborativo de agentes para alinhar formações, otimizar trajetórias e lidar com imprevistos, garantindo desempenho e precisão em operações coletivas.
 Utilizando o framework JADE, a criação, comunicação e gerenciamento de agentes serão simplificados, proporcionando ao sistema modularidade e escalabilidade. Acreditamos que este projeto se destacará por sua aplicação prática em operações aéreas, servindo como um exemplo de como tecnologias avançadas podem transformar a organização e coordenação de drones, trazendo maior eficiência e inovação para o mundo real.
 
-## Screenshots
+## Screenshots REALIZAR
 Adicione 2 ou mais screenshots do projeto em termos de interface e/ou funcionamento.
 
 ## Instalação 
 **Linguagens**: Java<br>
 **Tecnologias**: JADE (Java Agent Development Framework), Swing (para a interface gráfica)<br>
 
-## Pré-requisitos  
+## Pré-requisitos 
 Certifique-se de que os seguintes itens estão instalados no seu sistema antes de executar o projeto:
 
 1. **Java Development Kit (JDK)**: Versão 8 ou superior.  
@@ -40,7 +38,7 @@ Certifique-se de que os seguintes itens estão instalados no seu sistema antes d
 ## Passo a Passo para Instalação  
 TERMINAR...
 
-## Uso 
+## Uso ATUALIZAR COMANDOS
 
 ### **Como Usar o Sistema de Formação de Drones**  
 
@@ -62,7 +60,7 @@ Após a instalação e configuração, siga os passos abaixo para utilizar o sis
 - A interface gráfica do sistema abrirá automaticamente, mostrando a posição dos drones em tempo real enquanto eles se movem para formar a ..... CONTINUAR
 - Cada drone será representado como um ponto azul na tela.
 
-## Vídeo
+## Vídeo REALIZAR
 Adicione 1 ou mais vídeos com a execução do projeto.
 Procure: 
 (i) Introduzir o projeto;
@@ -73,7 +71,7 @@ OBS: TODOS DEVEM PARTICIPAR, CONFERINDO PONTOS DE VISTA.
 TEMPO: +/- 15min
 
 ## Participações
-Contribuição de cada membro no projeto.
+Contribuição de cada membro ao longo do projeto.
 |Nome do Membro | Contribuição | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) | Comprobatórios (ex. links para commits)
 | -- | -- | -- | -- |
 | Henrique Azevedo Batalha | Pesquisa Bibliográfica, ... | (Em análise) | [feat: adiciona tabela Henrique](https://github.com/UnBSMA2024-2/Grupo2/commit/2778438a0e7b4aaa28cd22370d2e5d1438fa9abd)   
