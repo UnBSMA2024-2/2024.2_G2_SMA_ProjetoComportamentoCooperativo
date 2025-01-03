@@ -858,6 +858,112 @@
     &emsp;&emsp;Essa definição também permite aprofundar o estudo sobre a aplicabilidade de sistemas multiagentes, contribuindo para avanços no campo e possibilitando novas perspectivas em logística autônoma e operações colaborativas.
 </p>
 
+<h2 style="font-weight: bold; margin-top: 30px; margin-bottom: 20px;">Contribuições Focadas no Tema: Formação de Drones</h2>
+<h6 align="center">Tabela 07: Contribuições Relacionadas ao Tema Formação de Drones</h6>
+<div style="text-align: center;">
+  <table border="1" style="border-collapse: collapse; width: 100%; max-width: 1200px; margin: 0 auto; text-align: center;">
+    <thead>
+        <tr>
+            <th>Etapa</th>
+            <th>Descrição</th>
+            <th>Resultado</th>
+            <th>Integrante</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1. Estabelecer o Tema</td>
+            <td>Definição do foco principal da pesquisa.</td>
+            <td>O tema central do projeto foi definido como <strong>Formação de Drones em Sistemas Multiagentes</strong>.</td>
+            <td>Henrique Azevedo Batalha</td>
+        </tr>
+        <tr>
+            <td>2. Especificar uma Questão de Pesquisa</td>
+            <td>Elaboração de perguntas que guiaram a pesquisa.</td>
+            <td>Como coordenar drones para formar padrões utilizando sistemas multiagentes?</td>
+            <td>Henrique Azevedo Batalha e Isaque Santos</td>
+        </tr>
+        <tr>
+            <td>3. Identificar Palavras-chave</td>
+            <td>Seleção de palavras-chave relevantes para busca.</td>
+            <td>
+                <ul>
+                    <li>Formação de Drones</li>
+                    <li>Multiagent Behavioral Systems</li>
+                    <li>Drone Swarm Formation</li>
+                </ul>
+            </td>
+            <td>Henrique Azevedo Batalha e Lara Giuliana Lima dos Santos</td>
+        </tr>
+        <tr>
+            <td>4. Estabelecer Strings de Busca</td>
+            <td>Criação de combinações de palavras-chave para pesquisa.</td>
+            <td>
+                <ul>
+                    <li>"Multiagent Systems" AND "Drone Formation"</li>
+                    <li>"Behavioral Multiagent Systems" AND "Drones"</li>
+                </ul>
+            </td>
+            <td>Lara Giuliana Lima dos Santos</td>
+        </tr>
+        <tr>
+            <td>5. Escolher Bases Científicas</td>
+            <td>Seleção das bases de dados para pesquisa.</td>
+            <td>Google Scholar, IEEE Xplore, Periódicos Capes.</td>
+            <td>Isaque Santos</td>
+        </tr>
+        <tr>
+            <td>6. Realizar as Buscas</td>
+            <td>Aplicação das strings de busca nas bases selecionadas.</td>
+            <td>Encontrados 20 artigos relevantes; 8 selecionados após os critérios de inclusão.</td>
+            <td>Isaque Santos e Henrique Azevedo Batalha</td>
+        </tr>
+        <tr>
+            <td>7. Análise dos Resultados</td>
+            <td>Leitura de resumos e artigos completos para seleção final.</td>
+            <td>
+                <ul>
+                    <li>3 artigos selecionados como base para o tema.</li>
+                    <li>Referências incluem aplicações práticas de drones em sistemas multiagentes.</li>
+                </ul>
+            </td>
+            <td>Lara Giuliana Lima dos Santos e Henrique Azevedo Batalha</td>
+        </tr>
+        <tr>
+            <td>8. Apresentar Referências Finais</td>
+            <td>Compilação e organização das referências selecionadas.</td>
+            <td>
+                <ul>
+            <li>
+                <a href="https://www.sba.org.br/open_journal_systems/index.php/cba/article/view/1129" target="_blank">
+                  SÁ, D. F. S.; NETO, J. V. F. Sistema Multiagente para Formação e Sincronização Utilizando Drones 
+                </a>
+            </li>    
+            <li>
+                <a href="https://www.sciencedirect.com/science/article/pii/S0957417422000975" target="_blank">
+                  LEON-BLANCO, J. M. et al. A multi-agent approach to the truck multi-drone routing problem.
+                </a>
+            </li>
+            <li>
+                <a href="https://www.mdpi.com/2504-446X/8/1/27" target="_blank">
+                  Kuo, Y., Chen, J., & Lee, T. (2020). Truck-Drone Delivery Optimization Based on Multi-Agent Reinforcement Learning. MDPI Journal.
+                </a>            
+            </li>
+                </ul>
+            </td>
+            <td>Henrique Azevedo Batalha e Lara Giuliana Lima dos Santos</td>
+        </tr>
+    </tbody>
+  </table>
+</div>
+<p style="text-align: center; margin-top: 10px;">
+    <em>Tabela criada por <a href="https://github.com/The-Boss-Nina" target="_blank">SOUZA, Marina</a>. 2025.</em>
+</p>
+
+<p align="justify">
+    &emsp;&emsp;Após o término das pesquisas bibliográficas, ficou evidente que todos os membros da equipe contribuíram de maneira significativa para o desenvolvimento do projeto. Parte dos integrantes focou suas investigações no tema de <strong>entregas realizadas por drones</strong>, analisando sistemas logísticos e tecnologias voltadas à otimização de rotas e gerenciamento de frotas. Outra parte da equipe se dedicou ao estudo sobre <strong>formação de drones</strong>, explorando estratégias cooperativas e comportamentos emergentes em sistemas multiagentes. Essa colaboração ampla e diversificada permitiu que o grupo tivesse uma visão abrangente sobre o potencial dos drones em aplicações práticas, fundamentando a escolha do tema do projeto e orientando o desenvolvimento técnico e teórico da solução proposta.
+</p>
+
   <h1 style="font-weight: bold; margin-top: 30px; margin-bottom: 10px;">Histórico de Versão</h1>
   <p align="justify" class="section-text">
   A Tabela 07 representa o histórico de versão do documento.
@@ -902,7 +1008,7 @@
           <td>24/11/2024</td>
           <td>Criação do subtópico Pesquisa Bibliográfica na Prática - Rodrigo Ferreira do Amaral e Tabela 06: Pesquisa Bibliográfica na Prática.</td>
           <td><a href="https://github.com/rodrigoFAmaral" target="_blank">Rodrigo Ferreira do Amaral</a></td>
-          <td><a href="https://github.com/EduardaSMarques" target="_blank">Maria Eduarda dos Santos Marques</a></a></td>
+          <td><a href="https://github.com/EduardaSMarques" target="_blank">Maria Eduarda dos Santos Marques</a></td>
         </tr>
         <tr>
           <td>1.4</td>
@@ -925,6 +1031,12 @@
           <td><a href="https://github.com/gravelylara" target="_blank">Lara Giuliana</a></td>
           <td><a href="https://github.com/The-Boss-Nina" target="_blank">Marina Márcia Costa de Souza</a></td>
         </tr>
+        <tr>
+          <td>1.7</td>
+          <td>03/01/2025</td>
+          <td>Criação dos tópicos Definição do Tema do Projeto e Contribuições Focadas no Tema: Formação de Drones</td>
+          <td><a href="https://github.com/The-Boss-Nina" target="_blank">Marina Márcia Costa de Souza</a></td>
+          <td><a href="https://github.com/EduardaSMarques" target="_blank">Maria Eduarda dos Santos Marque</a></td>
       </tbody>
     </table>
     <p style="margin-top: 10px; text-align: center;">
