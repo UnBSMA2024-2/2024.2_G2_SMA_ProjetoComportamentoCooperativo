@@ -194,7 +194,7 @@ A Tabela 04 representa o histórico de versão.
         </tr>
          <tr>
           <td>1.1</td>
-          <td>04/01/2025</td>
+          <td>05/01/2025</td>
           <td>Adição da tarefa a ser realizada e sua respectiva issue. </td>
           <td><a href="https://github.com/The-Boss-Nina" target="_blank">Marina Márcia Costa de Souza</a></td>
           <td><a href="https://github.com/IsaqueSH" target="_blank">Isaque Santos</a></td>
