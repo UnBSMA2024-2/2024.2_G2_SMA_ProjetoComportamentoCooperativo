@@ -6,6 +6,7 @@ import java.util.Map;
 public class Simulation extends JFrame {
     private final Map<String, Point> dronePositions = new HashMap<>();
     private static final int DRONE_SIZE = 8; // Ajustado para visibilidade
+    private boolean toggleVisibility = true; // Controla se os drones estão visíveis
 
     public Simulation() {
         setTitle("Simulação de Drones");
@@ -13,6 +14,13 @@ public class Simulation extends JFrame {
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setLocationRelativeTo(null); // Centraliza a janela
         setVisible(true);
+
+        // Configura um Timer para alternar a visibilidade dos drones a cada 500ms
+        Timer timer = new Timer(500, e -> {
+            toggleVisibility = !toggleVisibility;
+            repaint();
+        });
+        timer.start();
     }
 
     /**
@@ -33,22 +41,26 @@ public class Simulation extends JFrame {
         super.paint(g);
         g.setColor(Color.WHITE); // Fundo branco
         g.fillRect(0, 0, getWidth(), getHeight());
-        synchronized (dronePositions) {
-            for (Map.Entry<String, Point> entry : dronePositions.entrySet()) {
-                Point position = entry.getValue();
-                String droneName = entry.getKey();
 
-                // Escolhe a cor com base no estado atual
-                if (droneName.startsWith("drone_FIREWORK")) {
-                    // Alterna as cores para os fogos
-                    g.setColor(new Color((int) (Math.random() * 0x1000000))); // Cor aleatória
-                } else {
-                    // Mantém azul para a formação da letra
-                    g.setColor(Color.BLUE);
+        if (toggleVisibility) { // Drones visíveis somente se toggleVisibility for true
+            synchronized (dronePositions) {
+                for (Map.Entry<String, Point> entry : dronePositions.entrySet()) {
+                    Point position = entry.getValue();
+                    String droneName = entry.getKey();
+
+                    // Escolhe a cor com base no estado atual
+                    if (droneName.startsWith("drone_FIREWORK")) {
+                        // Alterna as cores para os fogos
+                        g.setColor(new Color((int) (Math.random() * 0x1000000))); // Cor aleatória
+                    } else {
+                        // Mantém azul para a formação da letra
+                        g.setColor(Color.BLUE);
+                    }
+
+                    g.fillOval(position.x, position.y, DRONE_SIZE, DRONE_SIZE);
                 }
-
-                g.fillOval(position.x, position.y, DRONE_SIZE, DRONE_SIZE);
             }
         }
     }
 }
+
