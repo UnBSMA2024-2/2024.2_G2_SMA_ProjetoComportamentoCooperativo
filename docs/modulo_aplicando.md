@@ -114,12 +114,15 @@
         <tr>
           <td>4. Apresentação</td>
           <td>Exposição dos resultados obtidos e desafios enfrentados.</td>
-          <td>Slides e demonstrações práticas em sala de aula.</td>
+          <td>Vídeo e demonstrações práticas em sala de aula.</td>
         </tr>
       </tbody>
+      </table>
+      <p style="margin-top: 10px; text-align: center;">
+      <em>Tabela criada por <a href="https://github.com/The-Boss-Nina" target="_blank">SOUZA, Marina</a>. 2025.</em>
+      </p>
     </table>
   </div>
-
 
   <h1 style="font-weight: bold; margin-top: 30px; margin-bottom: 10px;">Simulação do Algoritmo</h1>
     <p align="justify">
@@ -136,10 +139,10 @@
 
   <h1 style="font-weight: bold; margin-top: 30px; margin-bottom: 10px;">Histórico de Versão</h1>
   <p align="justify" class="section-text">
-    A Tabela (00) representa o histórico de versão do documento.
+    A Tabela 02 representa o histórico de versão do documento.
   </p>
 
-  <h6 align="center">Tabela (00): Histórico de Versão</h6>
+  <h6 align="center">Tabela 02: Histórico de Versão</h6>
   <div style="text-align: center;">
     <table>
       <thead>
