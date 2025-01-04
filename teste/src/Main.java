@@ -17,7 +17,7 @@ public class Main {
             Simulation simulation = new Simulation();
 
             // Cria os drones necessários para a formação da letra A
-            int totalDrones = 13; // Total ajustado de drones necessários
+            int totalDrones = 70; // Total ajustado de drones necessários
             for (int i = 1; i <= totalDrones; i++) {
                 mainContainer.createNewAgent("drone_A" + i, "DroneAgent", new Object[]{simulation}).start();
             }

@@ -3,7 +3,7 @@ import jade.core.behaviours.CyclicBehaviour;
 import jade.lang.acl.ACLMessage;
 
 public class DroneAgent extends Agent {
-    private int x = 0, y = 0; // Coordenadas iniciais do drone
+    private int x = 540, y = 300; // Coordenadas iniciais do drone
     private Simulation simulation;
 
     @Override

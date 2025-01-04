@@ -9,7 +9,7 @@ public class Simulation extends JFrame {
 
     public Simulation() {
         setTitle("Simulação de Drones");
-        setSize(1000, 600); // Ajuste para comportar as letras
+        setSize(1080, 600); // Ajuste para comportar as letras
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setLocationRelativeTo(null); // Centraliza a janela
         setVisible(true);
@@ -33,10 +33,20 @@ public class Simulation extends JFrame {
         super.paint(g);
         g.setColor(Color.WHITE); // Fundo branco
         g.fillRect(0, 0, getWidth(), getHeight());
-        g.setColor(Color.BLUE); // Cor dos drones
         synchronized (dronePositions) {
             for (Map.Entry<String, Point> entry : dronePositions.entrySet()) {
                 Point position = entry.getValue();
+                String droneName = entry.getKey();
+
+                // Escolhe a cor com base no estado atual
+                if (droneName.startsWith("drone_FIREWORK")) {
+                    // Alterna as cores para os fogos
+                    g.setColor(new Color((int) (Math.random() * 0x1000000))); // Cor aleatória
+                } else {
+                    // Mantém azul para a formação da letra
+                    g.setColor(Color.BLUE);
+                }
+
                 g.fillOval(position.x, position.y, DRONE_SIZE, DRONE_SIZE);
             }
         }
