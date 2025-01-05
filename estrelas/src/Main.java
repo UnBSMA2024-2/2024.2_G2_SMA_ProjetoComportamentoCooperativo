@@ -21,15 +21,18 @@ public class Main {
             for (int i = 1; i <= totalDronesFeliz; i++) {
                 mainContainer.createNewAgent("drone_FE_LIZ" + i, "DroneAgent", new Object[]{simulation}).start();
             }
-            int totalDrones2025 = 120; // Cria mais drones para a formacao de '2025!'
+            int totalDrones2025 = 108; // Cria mais drones para a formacao de '2025'
             for (int i = 1; i <= totalDrones2025; i++) {
                 mainContainer.createNewAgent("drone_ANO" + i, "DroneAgent", new Object[]{simulation}).start();
+            }
+            int totalDronesFirework = 100; // Cria mais drones para a formacao de 'fogos'
+            for (int i = 1; i <= totalDronesFirework; i++) {
+                mainContainer.createNewAgent("drone_FIREWORK" + i, "DroneAgent", new Object[]{simulation}).start();
             }
             int totalDronesEstrelas = 90; // Cria mais drones para a formacao de 'estrelas'
             for (int i = 1; i <= totalDronesEstrelas; i++) {
                 mainContainer.createNewAgent("drone_ESTRELAS" + i, "DroneAgent", new Object[]{simulation}).start();
             }
-
             // Cria o controlador
             mainContainer.createNewAgent("controller", "ControllerAgent", null).start();
 
