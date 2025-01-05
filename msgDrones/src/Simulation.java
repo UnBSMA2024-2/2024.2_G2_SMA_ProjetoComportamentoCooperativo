@@ -6,26 +6,27 @@ import java.util.Random;
 
 public class Simulation extends JFrame {
     private final Map<String, Point> dronePositions = new HashMap<>();
+    private final Map<String, Color> droneColors = new HashMap<>(); // Armazena as cores de cada drone
     private static final int DRONE_SIZE = 8; // Ajustado para visibilidade
-    private boolean toggleVisibility = true; // Controla se os drones estão visíveis
-
-    Random random = new Random();
-    Color[] colors = {Color.DARK_GRAY, Color.BLUE, Color.CYAN, Color.GREEN, Color.MAGENTA, Color.PINK, Color.ORANGE};
-    int randomIndex = random.nextInt(colors.length);
+    private final Random random = new Random();
+    private final Color[] colors = {
+            Color.DARK_GRAY, Color.BLUE, Color.CYAN, 
+            Color.GREEN, Color.MAGENTA, Color.PINK, Color.ORANGE
+    };
 
     public Simulation() {
         setTitle("Simulação de Drones");
-        setSize(1080, 600); // Ajuste para comportar as letras
+        setSize(1080, 600);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setLocationRelativeTo(null); // Centraliza a janela
         setVisible(true);
 
-        // Configura um Timer para alternar a visibilidade dos drones a cada 500ms
-        Timer timer = new Timer(500, e -> {
-            toggleVisibility = !toggleVisibility;
+        // Configura um Timer para alternar as cores dos drones a cada 1000ms
+        Timer colorTimer = new Timer(1000, e -> {
+            updateDroneColors();
             repaint();
         });
-        timer.start();
+        colorTimer.start();
     }
 
     /**
@@ -38,7 +39,18 @@ public class Simulation extends JFrame {
     public synchronized void updateDronePosition(String droneName, int x, int y) {
         System.out.println("Atualizando posição: " + droneName + " para (" + x + ", " + y + ")");
         dronePositions.put(droneName, new Point(x, y));
+        // Inicializa com uma cor aleatória, se ainda não existir
+        droneColors.putIfAbsent(droneName, colors[random.nextInt(colors.length)]);
         repaint();
+    }
+
+    /**
+     * Atualiza as cores de todos os drones para uma nova cor aleatória.
+     */
+    private synchronized void updateDroneColors() {
+        for (String droneName : dronePositions.keySet()) {
+            droneColors.put(droneName, colors[random.nextInt(colors.length)]);
+        }
     }
 
     @Override
@@ -47,25 +59,19 @@ public class Simulation extends JFrame {
         g.setColor(Color.WHITE); // Fundo branco
         g.fillRect(0, 0, getWidth(), getHeight());
 
-        if (toggleVisibility) { // Drones visíveis somente se toggleVisibility for true
-            synchronized (dronePositions) {
-                for (Map.Entry<String, Point> entry : dronePositions.entrySet()) {
-                    Point position = entry.getValue();
-                    String droneName = entry.getKey();
+        synchronized (dronePositions) {
+            for (Map.Entry<String, Point> entry : dronePositions.entrySet()) {
+                Point position = entry.getValue();
+                String droneName = entry.getKey();
 
-                    // Escolhe a cor com base no estado atual
-                    if (droneName.startsWith("drone_FIREWORK")) {
-                        // Alterna as cores para os fogos
-                        g.setColor(new Color((int) (Math.random() * 0x1000000))); // Cor aleatória
-                    } else {
-                        // Seleciona uma cor do array a cada nova simulação
-                        g.setColor(colors[randomIndex]);
-                    }
-
-                    g.fillOval(position.x, position.y, DRONE_SIZE, DRONE_SIZE);
-                }
+                // Obtém a cor atual do drone
+                g.setColor(droneColors.getOrDefault(droneName, Color.BLACK));
+                g.fillOval(position.x, position.y, DRONE_SIZE, DRONE_SIZE);
             }
         }
     }
 }
+
+
+
 
