@@ -149,7 +149,7 @@
             <a href="https://github.com/The-Boss-Nina" target="_blank">Marina Márcia Costa de Souza</a> e 
             <a href="https://github.com/rodrigoFAmaral" target="_blank">Rodrigo Ferreira do Amaral</a>
           </td>
-          <td><a href="https://github.com/UnBSMA2024-2/Grupo2/issues/2" target="_blank">Issue #2</a></td>
+          <td><a href="https://github.com/UnBSMA2024-2/2024.2_G2_SMA_ProjetoComportamentoCooperativo/issues/14" target="_blank">Issue #14</a></td>
         </tr>
       </tbody>
     </table>
@@ -193,6 +193,12 @@ A Tabela 04 representa o histórico de versão.
           <td>Criação do arquivo, adição das informações, participantes, pauta da reunião, gravação da reunião e histórico de versão. </td>
           <td><a href="https://github.com/The-Boss-Nina" target="_blank">Marina Márcia Costa de Souza</a></td>
           <td><a href="https://github.com/HeBatalha" target="_blank">Henrique Azevedo Batalha</a></td>
+        </tr>
+        <td>1.1</td>
+          <td>04/01/2025</td>
+          <td>Adição da tarefa a ser realizada e sua respectiva issue. </td>
+          <td><a href="https://github.com/The-Boss-Nina" target="_blank">Marina Márcia Costa de Souza</a></td>
+          <td><a href="https://github.com/EduardaSMarques" target="_blank">Maria Eduarda dos Santos Marques</a></td>
         </tr>
       </tbody>
     </table>
