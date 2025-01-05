@@ -1,8 +1,8 @@
-import javax.swing.*;
 import java.awt.*;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Random;
+import javax.swing.*;
 
 public class Simulation extends JFrame {
     private final Map<String, Point> dronePositions = new HashMap<>();
@@ -10,13 +10,13 @@ public class Simulation extends JFrame {
     private static final int DRONE_SIZE = 8; // Ajustado para visibilidade
     private final Random random = new Random();
     private final Color[] colors = {
-            Color.DARK_GRAY, Color.BLUE, Color.CYAN, 
+            Color.DARK_GRAY, Color.BLUE, Color.CYAN,
             Color.GREEN, Color.MAGENTA, Color.PINK, Color.ORANGE
     };
 
     public Simulation() {
         setTitle("Simulação de Drones");
-        setSize(1080, 600);
+        setSize(1140, 600); // Ajuste para comportar as letras
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setLocationRelativeTo(null); // Centraliza a janela
         setVisible(true);
@@ -56,7 +56,7 @@ public class Simulation extends JFrame {
     @Override
     public void paint(Graphics g) {
         super.paint(g);
-        g.setColor(Color.WHITE); // Fundo branco
+        g.setColor(Color.BLACK); // Fundo branco
         g.fillRect(0, 0, getWidth(), getHeight());
 
         synchronized (dronePositions) {
@@ -70,8 +70,7 @@ public class Simulation extends JFrame {
             }
         }
     }
+
 }
-
-
 
 
