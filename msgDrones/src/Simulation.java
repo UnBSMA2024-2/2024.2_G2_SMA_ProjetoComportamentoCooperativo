@@ -2,11 +2,16 @@ import javax.swing.*;
 import java.awt.*;
 import java.util.HashMap;
 import java.util.Map;
+import java.util.Random;
 
 public class Simulation extends JFrame {
     private final Map<String, Point> dronePositions = new HashMap<>();
     private static final int DRONE_SIZE = 8; // Ajustado para visibilidade
     private boolean toggleVisibility = true; // Controla se os drones estão visíveis
+
+    Random random = new Random();
+    Color[] colors = {Color.DARK_GRAY, Color.BLUE, Color.CYAN, Color.GREEN, Color.MAGENTA, Color.PINK, Color.ORANGE};
+    int randomIndex = random.nextInt(colors.length);
 
     public Simulation() {
         setTitle("Simulação de Drones");
@@ -53,8 +58,8 @@ public class Simulation extends JFrame {
                         // Alterna as cores para os fogos
                         g.setColor(new Color((int) (Math.random() * 0x1000000))); // Cor aleatória
                     } else {
-                        // Mantém azul para a formação da letra
-                        g.setColor(Color.BLUE);
+                        // Seleciona uma cor do array a cada nova simulação
+                        g.setColor(colors[randomIndex]);
                     }
 
                     g.fillOval(position.x, position.y, DRONE_SIZE, DRONE_SIZE);
