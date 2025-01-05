@@ -4,6 +4,7 @@ import jade.lang.acl.ACLMessage;
 import jade.core.behaviours.CyclicBehaviour;
 
 public class ControllerAgent extends Agent {
+    private static final int STEP_DELAY = 200; // Ajustado para visibilidade
     private final int[][] positionsFE_LIZ = {
         // Letra F - 1 cm de espaçamento
         // Linha vertical da letra F
@@ -90,6 +91,26 @@ public class ControllerAgent extends Agent {
         // Linha horizontal superior
         {930, 100}, {940, 100}, {950, 100}, {960, 100}, {970, 100}, {980, 100}
     };
+    private final int[][] positionsFireworks = {
+        // Centro
+        {540, 440}, 
+        // Reta 1 (Longa, direita) 24
+        {560, 440}, {580, 440}, {600, 440}, {620, 440}, {640, 440},
+        // Reta 2 (Curta, diagonal superior direita)
+        {550, 430}, {560, 420}, {570, 410}, {580, 400}, {590, 390},
+        // Reta 3 (Longa, esquerda)
+        {520, 440}, {500, 440}, {480, 440}, {460, 440},  {440, 440},
+        // Reta 4 (Curta, diagonal inferior direita)
+        {550, 450}, {560, 460}, {570, 470}, {580, 480}, {590, 490},
+        // Reta 5 (Longa, cima)
+        {540, 420}, {540, 400}, {540, 380}, {540, 360}, {540, 340},
+        // Reta 6 (Curta, diagonal superior esquerda)
+        {530, 430}, {520, 420}, {510, 410}, {500, 400}, {490, 390},
+        // Reta 7 (Longa, baixo)
+        {540, 460}, {540, 480}, {540, 500}, {540, 520}, {540, 540},
+        // Reta 8 (Curta, diagonal inferior esqeurda)
+        {530, 450}, {520, 460}, {510, 470}, {500, 480}, {490, 490}
+    };
 
     @Override
     protected void setup() {
@@ -98,6 +119,7 @@ public class ControllerAgent extends Agent {
         addBehaviour(new CyclicBehaviour() {
             private int stepFeliz = 0;
             private int stepAno = 0;
+            private int stepFirework = 0;
 
             @Override
             public void action() {
@@ -109,7 +131,7 @@ public class ControllerAgent extends Agent {
                     sendMoveCommand(droneName, x, y);
                     System.out.println("Movendo " + droneName + " para (" + x + ", " + y + ")");
                     stepFeliz++;
-                    block(200); // Reduzido para maior fluidez
+                    block(STEP_DELAY); // Reduzido para maior fluidez
                 } else {
                     System.out.println("Formação das letras F, E, L, I, Z concluída.");
                     block(); // Finaliza o comportamento
@@ -123,7 +145,18 @@ public class ControllerAgent extends Agent {
                     sendMoveCommand(droneName, x, y);
                     System.out.println("Movendo " + droneName + " para (" + x + ", " + y + ")");
                     stepAno++;
-                    block(200);
+                    block(STEP_DELAY);
+                }
+
+                if (stepFirework < positionsFireworks.length) {
+                    String droneName = "drone_FIREWORK" + (stepFirework + 1);
+                    int x = positionsFireworks[stepFirework][0];
+                    int y = positionsFireworks[stepFirework][1];
+
+                    sendMoveCommand(droneName, x, y);
+                    System.out.println("Movendo " + droneName + " para (" + x + ", " + y + ")");
+                    stepFirework++;
+                    block(STEP_DELAY);
                 }
             }
 

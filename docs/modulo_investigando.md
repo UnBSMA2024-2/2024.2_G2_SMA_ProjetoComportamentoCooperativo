@@ -1036,7 +1036,7 @@
           <td>03/01/2025</td>
           <td>Criação dos tópicos Definição do Tema do Projeto e Contribuições Focadas no Tema: Formação de Drones</td>
           <td><a href="https://github.com/The-Boss-Nina" target="_blank">Marina Márcia Costa de Souza</a></td>
-          <td><a href="https://github.com/EduardaSMarques" target="_blank">Maria Eduarda dos Santos Marque</a></td>
+          <td><a href="https://github.com/EduardaSMarques" target="_blank">Maria Eduarda dos Santos Marques</a></td>
       </tbody>
     </table>
     <p style="margin-top: 10px; text-align: center;">

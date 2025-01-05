@@ -5,7 +5,8 @@ import java.util.Map;
 
 public class Simulation extends JFrame {
     private final Map<String, Point> dronePositions = new HashMap<>();
-    private static final int DRONE_SIZE = 8; // Tamanho reduzido dos drones
+    private boolean isFireworksPhase = false; // Controle para alternar cores na fase de fogos
+    private static final int DRONE_SIZE = 8;
 
     public Simulation() {
         setTitle("Simulação de Drones");
@@ -26,15 +27,32 @@ public class Simulation extends JFrame {
         repaint();
     }
 
+    /**
+     * Sinaliza o início da fase de fogos de artifício.
+     */
+    public void startFireworks() {
+        isFireworksPhase = true;
+    }
+
     @Override
     public void paint(Graphics g) {
         super.paint(g);
-        g.setColor(Color.BLUE); // Cor dos drones
+
         synchronized (dronePositions) {
             for (Map.Entry<String, Point> entry : dronePositions.entrySet()) {
                 Point position = entry.getValue();
-                g.fillOval(position.x, position.y, DRONE_SIZE, DRONE_SIZE); // Representa o drone como um círculo
-                // g.drawString(entry.getKey(), position.x + 15, position.y + 5); // Nome do drone (removido)
+                String droneName = entry.getKey();
+
+                // Escolhe a cor com base no estado atual
+                if (isFireworksPhase && droneName.startsWith("drone_firework")) {
+                    // Alterna as cores para os fogos
+                    g.setColor(new Color((int) (Math.random() * 0x1000000))); // Cor aleatória
+                } else {
+                    // Mantém azul para a formação da letra "A"
+                    g.setColor(Color.BLUE);
+                }
+
+                g.fillOval(position.x, position.y, DRONE_SIZE, DRONE_SIZE);
             }
         }
     }

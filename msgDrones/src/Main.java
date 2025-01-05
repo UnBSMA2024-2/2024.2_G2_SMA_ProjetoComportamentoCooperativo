@@ -25,6 +25,10 @@ public class Main {
             for (int i = 1; i <= totalDrones2025; i++) {
                 mainContainer.createNewAgent("drone_ANO" + i, "DroneAgent", new Object[]{simulation}).start();
             }
+            int totalDronesFirework = 100; // Cria mais drones para a formacao de 'estrela'
+            for (int i = 1; i <= totalDronesFirework; i++) {
+                mainContainer.createNewAgent("drone_FIREWORK" + i, "DroneAgent", new Object[]{simulation}).start();
+            }
 
             // Cria o controlador
             mainContainer.createNewAgent("controller", "ControllerAgent", null).start();
