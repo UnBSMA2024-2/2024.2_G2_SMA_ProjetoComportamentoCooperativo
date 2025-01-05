@@ -7,8 +7,7 @@
   <style>
     /* Estilo geral para as tabelas */
     table {
-      margin-left: auto;
-      margin-right: auto;
+      margin: 0 auto;
       border-collapse: collapse;
       width: 100%;
       max-width: 1200px;
@@ -25,13 +24,13 @@
 
     thead th {
       background-color: #f2f2f2;
-      color: #000; /* Cor padrão para modo claro */
+      color: #000;
     }
 
     /* Alteração para o modo escuro */
     @media (prefers-color-scheme: dark) {
-      .tabela-resultados thead th {
-        color: #888; /* Cor cinza apenas para os títulos no modo escuro */
+      thead th {
+        color: #888;
       }
     }
 
@@ -50,9 +49,9 @@
 <body>
   <h1 align="center"><strong>Módulo Aplicando</strong></h1>
 
-   <h1 style="font-weight: bold; margin-bottom: 10px;">Introdução</h1>
+  <h1 style="font-weight: bold; margin-bottom: 10px;">Introdução</h1>
   <p align="justify">
-    &emsp;&emsp; Este projeto foi desenvolvido como parte do *Módulo Aplicando* e tem como objetivo explorar o potencial de Sistemas Multiagentes na coordenação de drones em cenários dinâmicos. Utilizando o framework JADE, a equipe projetou um sistema capaz de realizar formações coordenadas, animações e ajustes em tempo real, simulados em uma interface gráfica interativa.
+    &emsp;&emsp; Este projeto foi desenvolvido como parte do <em>Módulo Aplicando</em> e tem como objetivo explorar o potencial de Sistemas Multiagentes na coordenação de drones em cenários dinâmicos. Utilizando o framework JADE, a equipe projetou um sistema capaz de realizar formações coordenadas, animações e ajustes em tempo real, simulados em uma interface gráfica interativa.
   </p>
   <p align="justify">
     &emsp;&emsp; O sistema inclui diversos desafios, como a comunicação eficiente entre agentes, a sincronização de movimentos e a adaptação a falhas ou mudanças no ambiente. A implementação foi orientada por cenários práticos, como a formação de palavras e números e efeitos visuais, como fogos de artifício e estrelas.
@@ -78,41 +77,39 @@
   </ul>
 
   <h1 style="font-weight: bold; margin-top: 30px; margin-bottom: 20px;">Metodologia</h1>
-    <p align="justify">
-      &emsp;&emsp; O desenvolvimento do projeto foi realizado seguindo as seguintes etapas:
-    </p>
-    <ol>
-      <li><strong>Planejamento:</strong> Definição dos objetivos e do escopo do sistema, incluindo as formações e animações desejadas.</li>
-      <li><strong>Desenvolvimento:</strong> Implementação dos agentes, utilizando o framework JADE para gerenciar a comunicação.</li>
-      <li><strong>Simulação:</strong> Criação de uma interface gráfica para exibir as formações e testar os algoritmos.</li>
-      <li><strong>Teste e Ajustes:</strong> Validação do sistema em cenários simulados, corrigindo falhas e otimizando a coordenação dos drones.</li>
-    </ol>
-  </div>
+  <p align="justify">
+    &emsp;&emsp; O desenvolvimento do projeto foi realizado seguindo as seguintes etapas:
+  </p>
+  <ol>
+    <li><strong>Planejamento:</strong> Definição dos objetivos e do escopo do sistema, incluindo as formações e animações desejadas.</li>
+    <li><strong>Desenvolvimento:</strong> Implementação dos agentes, utilizando o framework JADE para gerenciar a comunicação.</li>
+    <li><strong>Simulação:</strong> Criação de uma interface gráfica para exibir as formações e testar os algoritmos.</li>
+    <li><strong>Teste e Ajustes:</strong> Validação do sistema em cenários simulados, corrigindo falhas e otimizando a coordenação dos drones.</li>
+  </ol>
 
   <h1 style="font-weight: bold; margin-top: 30px; margin-bottom: 20px;">Resultados</h1>
-    <p align="justify">
-      &emsp;&emsp; O sistema atingiu os objetivos propostos, demonstrando a eficácia de Sistemas Multiagentes na coordenação de drones. Os resultados incluem:
-    </p>
-    <ul>
-      <li>Formações precisas e sincronizadas, exibidas na simulação gráfica.</li>
-      <li>Animações dinâmicas, como fogos de artifício e alternância de cores, aumentando o impacto visual.</li>
-      <li>Capacidade de adaptação a mudanças no ambiente, como falhas simuladas nos drones.</li>
-      <li>Integração bem-sucedida entre os agentes JADE e a interface gráfica Swing.</li>
-    </ul>
-  </div>
+  <p align="justify">
+    &emsp;&emsp; O sistema atingiu os objetivos propostos, demonstrando a eficácia de Sistemas Multiagentes na coordenação de drones. Os resultados incluem:
+  </p>
+  <ul>
+    <li>Formações precisas e sincronizadas, exibidas na simulação gráfica.</li>
+    <li>Animações dinâmicas, como fogos de artifício e alternância de cores, aumentando o impacto visual.</li>
+    <li>Capacidade de adaptação a mudanças no ambiente, como falhas simuladas nos drones.</li>
+    <li>Integração bem-sucedida entre os agentes JADE e a interface gráfica Swing.</li>
+  </ul>
 
   <h1 style="font-weight: bold; margin-top: 30px; margin-bottom: 10px;">Simulação do Algoritmo</h1>
   <p align="justify">
     &emsp;&emsp; A seguir, apresentamos um vídeo que demonstra o funcionamento do algoritmo desenvolvido durante o módulo. A simulação foi realizada utilizando o framework JADE, e ilustra a formação coordenada dos drones, mostrando como a comunicação e a adaptação a mudanças no ambiente foram implementadas.
   </p>
-  <div style="text-align: center;">
-    <iframe width="560" height="315" src="https://youtu.be/NDC42u8LhFw" 
+  <div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/NDC42u8LhFw" 
             title="YouTube video player" frameborder="0" 
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+            allowfullscreen>
     </iframe>
   </div>
-    
+
   <h1 style="font-weight: bold; margin-top: 30px; margin-bottom: 10px;">Histórico de Versão</h1>
   <p align="justify" class="section-text">
     A Tabela 01 representa o histórico de versão do documento.
@@ -142,15 +139,15 @@
           <td>1.1</td>
           <td>04/01/2025</td>
           <td>Adicionando introdução, objetivo e espaço para inserir o vídeo.</td>
-           <td><a href="https://github.com/EduardaSMarques" target="_blank">Maria Eduarda dos Santos Marques</a></td>
-           <td><a href="https://github.com/IsaqueSH" target="_blank">Isaque Santos</a></td>
+          <td><a href="https://github.com/EduardaSMarques" target="_blank">Maria Eduarda dos Santos Marques</a></td>
+          <td><a href="https://github.com/IsaqueSH" target="_blank">Isaque Santos</a></td>
         </tr>
         <tr>
           <td>1.2</td>
           <td>05/01/2025</td>
           <td> Corrigindo introdução e objetivo, retirando tópicos e acrescentando tópicos restantes</td>
-           <td><a href="https://github.com/EduardaSMarques" target="_blank">Maria Eduarda dos Santos Marques</a></td>
-           <td><a href="https://github.com/IsaqueSH" target="_blank">Isaque Santos</a></td>
+          <td><a href="https://github.com/EduardaSMarques" target="_blank">Maria Eduarda dos Santos Marques</a></td>
+          <td><a href="https://github.com/IsaqueSH" target="_blank">Isaque Santos</a></td>
         </tr>
       </tbody>
     </table>
@@ -160,4 +157,3 @@
   </div>
 </body>
 </html>
-
