@@ -15,7 +15,7 @@ public class Simulation extends JFrame {
     };
 
     public Simulation() {
-        setTitle("Simulação de Drones");
+        setTitle("Simulacao de Drones");
         setSize(1140, 600); // Ajuste para comportar as letras
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setLocationRelativeTo(null); // Centraliza a janela
@@ -37,7 +37,7 @@ public class Simulation extends JFrame {
      * @param y         Coordenada Y.
      */
     public synchronized void updateDronePosition(String droneName, int x, int y) {
-        System.out.println("Atualizando posição: " + droneName + " para (" + x + ", " + y + ")");
+        System.out.println("Atualizando posicao: " + droneName + " para (" + x + ", " + y + ")");
         dronePositions.put(droneName, new Point(x, y));
         // Inicializa com uma cor aleatória, se ainda não existir
         droneColors.putIfAbsent(droneName, colors[random.nextInt(colors.length)]);

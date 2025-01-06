@@ -1,1 +1,1 @@
-http://Duda_LOQ:7778/acc
+http://172.16.1.175:7778/acc
