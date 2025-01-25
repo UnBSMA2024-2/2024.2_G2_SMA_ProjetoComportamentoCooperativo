@@ -90,7 +90,7 @@
       </tbody>
     </table>
     <p style="margin-top: 10px; text-align: center;">
-      <em>Tabela 01 criada por <a href="https://github.com/The-Boss-Nina" target="_blank">SOUZA, Marina</a>. 2025.</em>
+      <em>Tabela criada por <a href="https://github.com/The-Boss-Nina" target="_blank">SOUZA, Marina</a>. 2025.</em>
     </p>
   </div>
 </body>
