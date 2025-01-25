@@ -148,10 +148,10 @@
 
   <h1 style="font-weight: bold; margin-top: 30px; margin-bottom: 10px;">Histórico de Versão</h1>
   <p align="justify" class="section-text">
-    A Tabela (00) representa o histórico de versão do documento.
+    A Tabela 02 representa o histórico de versão do documento.
   </p>
 
-  <h6 align="center">Tabela (00): Histórico de Versão</h6>
+  <h6 align="center">Tabela 02: Histórico de Versão</h6>
   <div style="text-align: center;">
     <table>
       <thead>
