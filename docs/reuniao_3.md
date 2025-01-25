@@ -140,7 +140,7 @@
       </thead>
       <tbody>
         <tr>
-          <td>A DEFINIR</td>
+          <td>Divisão de Tarefas</td>
           <td>
             <a href="https://github.com/HeBatalha" target="_blank">Henrique Azevedo Batalha</a>, 
             <a href="https://github.com/IsaqueSH" target="_blank">Isaque Santos</a>, 
