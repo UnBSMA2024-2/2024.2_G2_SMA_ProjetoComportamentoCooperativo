@@ -92,8 +92,8 @@
           <td><a href="https://github.com/HeBatalha" target="_blank">Henrique Azevedo Batalha</a></td>
         </tr>
         <tr>
-          <td>1.0</td>
-          <td>25/01/2025</td>
+          <td>1.1</td>
+          <td>27/01/2025</td>
           <td>Adicionando o pdf do artigo científico.</td>
           <td><a href="https://github.com/EduardaSMarques" target="_blank">Maria Eduarda dos Santos Marques</a></td>
           <td><a href="https://github.com" target="_blank">Todos</a></td>
