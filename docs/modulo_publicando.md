@@ -59,7 +59,7 @@
 
  <h1 style="font-weight: bold; margin-top: 30px; margin-bottom: 10px;">Artigo Científico</h1>
 <p align="justify">
-  &emsp;&emsp;Nosso artigo científico está incorporado abaixo para leitura direta:
+Nosso artigo científico está incorporado abaixo para leitura direta:
 </p>
 
 <iframe src="https://drive.google.com/file/d/14ziQWAuE72MYhERDddwaPkqg9aiBOGXl/preview" width="1000" height="480" allow="autoplay"></iframe>
@@ -93,7 +93,7 @@
         </tr>
         <tr>
           <td>1.1</td>
-          <td>27/01/2025</td>
+          <td>26/01/2025</td>
           <td>Adicionando o pdf do artigo científico.</td>
           <td><a href="https://github.com/EduardaSMarques" target="_blank">Maria Eduarda dos Santos Marques</a></td>
           <td><a href="https://github.com" target="_blank">Todos</a></td>
