@@ -59,7 +59,7 @@
 
  <h1 style="font-weight: bold; margin-top: 30px; margin-bottom: 10px;">Artigo Científico</h1>
 <p align="justify">
-Nosso artigo científico está incorporado abaixo para leitura direta:
+Nosso artigo científico está incorporado abaixo para ddleitura direta:
 </p>
 
 <iframe src="https://drive.google.com/file/d/14ziQWAuE72MYhERDddwaPkqg9aiBOGXl/preview" width="1000" height="480" allow="autoplay"></iframe>
