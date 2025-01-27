@@ -158,9 +158,50 @@ Após a instalação e configuração, siga os passos abaixo para utilizar o sis
 Contribuição de cada membro ao longo do projeto.
 |Nome do Membro | Contribuição | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) | Comprobatórios (ex. links para commits)
 | -- | -- | -- | -- |
-| Henrique Azevedo Batalha | Pesquisa Bibliográfica, Código final ... | (Em análise) | [feat: adiciona tabela Henrique](https://github.com/UnBSMA2024-2/Grupo2/commit/2778438a0e7b4aaa28cd22370d2e5d1438fa9abd) / [feat: adiciona formatação da palavra 2025](https://github.com/UnBSMA2024-2/2024.2_G2_SMA_ProjetoComportamentoCooperativo/commit/b12736a80001fbc0e8f4f5634f552535ac6b5e93)
-| Isaque Santos | Pesquisa Bibliográfica, Código final ... | (Em análise) | [feat: adiciona tabela Isaque](https://github.com/UnBSMA2024-2/Grupo2/commit/94a399841ad71ae5cc8895b9d7c1b83a695d779a) / [feat: adiciona formatação das decorações da frase](https://github.com/UnBSMA2024-2/2024.2_G2_SMA_ProjetoComportamentoCooperativo/commit/54995d919af973534fcff085b738aa91a7249bc8)
-| Lara Giuliana Lima dos Santos | Pesquisa Bibliográfica, Código final ... | (Em análise) | [add investigando](https://github.com/UnBSMA2024-2/Grupo2/commit/0307239ddbd7bd0ea3f9b1b485dc5fbdee0b62c3) / [change-colors](https://github.com/UnBSMA2024-2/2024.2_G2_SMA_ProjetoComportamentoCooperativo/commit/bc744a3d485ccbe639383f02e5fbd2db214b2cf9)
-| Maria Eduarda dos Santos Marques | Pesquisa Bibliográfica, Código final ... | (Em análise) | [[ADD] colocando a minha parte do modulo investigando](https://github.com/UnBSMA2024-2/Grupo2/commit/4442fcf62e2af67e83922962c93a6663eeead0d9) / [feat: implementação do fogo de artifício e coloração](https://github.com/UnBSMA2024-2/2024.2_G2_SMA_ProjetoComportamentoCooperativo/commit/4b574e2ccaa4f99d08a2b96b6f52f38a16120278)
-| Marina Márcia Costa de Souza | Pesquisa Bibliográfica, Código final ... | (Em análise) | [feat: adiciona tabela Marina](https://github.com/UnBSMA2024-2/Grupo2/commit/ecefa0122d264e772d945338acd4a8e6a89c9baf) / [feat: adiciona formacao da palavra FELIZ](https://github.com/UnBSMA2024-2/2024.2_G2_SMA_ProjetoComportamentoCooperativo/commit/439a06c576ecd34619fa46de924f416bdff1c933)
-| Rodrigo Ferreira do Amaral | Pesquisa Bibliográfica, Código final ... | (Em análise) | [feat: adiciona tabela rodrigo](https://github.com/UnBSMA2024-2/Grupo2/commit/7ca8d88d98676179415465102c805f7ab6daadf4) / [feat: implementação do fogo de artifício e coloração](https://github.com/UnBSMA2024-2/2024.2_G2_SMA_ProjetoComportamentoCooperativo/commit/4b574e2ccaa4f99d08a2b96b6f52f38a16120278)
+| Henrique Azevedo Batalha | Pesquisa Bibliográfica, Código final e Artigo Científico | <div align="center">Excelente</div> | [feat: adiciona tabela Henrique](https://github.com/UnBSMA2024-2/Grupo2/commit/2778438a0e7b4aaa28cd22370d2e5d1438fa9abd) / [feat: adiciona formatação da palavra 2025](https://github.com/UnBSMA2024-2/2024.2_G2_SMA_ProjetoComportamentoCooperativo/commit/b12736a80001fbc0e8f4f5634f552535ac6b5e93) / [Adicionando pdf do artigo](https://github.com/UnBSMA2024-2/2024.2_G2_SMA_ProjetoComportamentoCooperativo/commit/41c88e43a87d85f7475bea2005b5b5544f29916a)
+| Isaque Santos | Pesquisa Bibliográfica, Código final e Artigo Científico | <div align="center">Excelente</div> | [feat: adiciona tabela Isaque](https://github.com/UnBSMA2024-2/Grupo2/commit/94a399841ad71ae5cc8895b9d7c1b83a695d779a) / [feat: adiciona formatação das decorações da frase](https://github.com/UnBSMA2024-2/2024.2_G2_SMA_ProjetoComportamentoCooperativo/commit/54995d919af973534fcff085b738aa91a7249bc8) / [Adicionando pdf do artigo](https://github.com/UnBSMA2024-2/2024.2_G2_SMA_ProjetoComportamentoCooperativo/commit/41c88e43a87d85f7475bea2005b5b5544f29916a)
+| Lara Giuliana Lima dos Santos | Pesquisa Bibliográfica, Código final e Artigo Científico | <div align="center">Excelente</div> | [add investigando](https://github.com/UnBSMA2024-2/Grupo2/commit/0307239ddbd7bd0ea3f9b1b485dc5fbdee0b62c3) / [change-colors](https://github.com/UnBSMA2024-2/2024.2_G2_SMA_ProjetoComportamentoCooperativo/commit/bc744a3d485ccbe639383f02e5fbd2db214b2cf9) / [Adicionando pdf do artigo](https://github.com/UnBSMA2024-2/2024.2_G2_SMA_ProjetoComportamentoCooperativo/commit/41c88e43a87d85f7475bea2005b5b5544f29916a)
+| Maria Eduarda dos Santos Marques | Pesquisa Bibliográfica, Código final e Artigo Científico | <div align="center">Excelente</div> | [[ADD] colocando a minha parte do modulo investigando](https://github.com/UnBSMA2024-2/Grupo2/commit/4442fcf62e2af67e83922962c93a6663eeead0d9) / [feat: implementação do fogo de artifício e coloração](https://github.com/UnBSMA2024-2/2024.2_G2_SMA_ProjetoComportamentoCooperativo/commit/4b574e2ccaa4f99d08a2b96b6f52f38a16120278) / [Adicionando pdf do artigo](https://github.com/UnBSMA2024-2/2024.2_G2_SMA_ProjetoComportamentoCooperativo/commit/41c88e43a87d85f7475bea2005b5b5544f29916a)
+| Marina Márcia Costa de Souza | Pesquisa Bibliográfica, Código final e Artigo Científico | <div align="center">Excelente</div> | [feat: adiciona tabela Marina](https://github.com/UnBSMA2024-2/Grupo2/commit/ecefa0122d264e772d945338acd4a8e6a89c9baf) / [feat: adiciona formacao da palavra FELIZ](https://github.com/UnBSMA2024-2/2024.2_G2_SMA_ProjetoComportamentoCooperativo/commit/439a06c576ecd34619fa46de924f416bdff1c933) / [Adicionando pdf do artigo](https://github.com/UnBSMA2024-2/2024.2_G2_SMA_ProjetoComportamentoCooperativo/commit/41c88e43a87d85f7475bea2005b5b5544f29916a)
+| Rodrigo Ferreira do Amaral | Pesquisa Bibliográfica, Código final e Artigo Científico | <div align="center">Excelente</div> | [feat: adiciona tabela rodrigo](https://github.com/UnBSMA2024-2/Grupo2/commit/7ca8d88d98676179415465102c805f7ab6daadf4) / [feat: implementação do fogo de artifício e coloração](https://github.com/UnBSMA2024-2/2024.2_G2_SMA_ProjetoComportamentoCooperativo/commit/4b574e2ccaa4f99d08a2b96b6f52f38a16120278) / [Adicionando pdf do artigo](https://github.com/UnBSMA2024-2/2024.2_G2_SMA_ProjetoComportamentoCooperativo/commit/41c88e43a87d85f7475bea2005b5b5544f29916a)
+
+---
+
+## Outros
+#### (i) Lições Aprendidas
+- **Métricas em tempo real:** Identificamos a importância de ajustar continuamente as métricas de cooperação e coordenação para maior eficiência.
+- **Inteligência dos agentes:** A implementação de respostas a falhas e mecanismos de aprendizagem foi essencial para a robustez do sistema.
+- **Escalabilidade:** Percebemos a necessidade de preparar o sistema para cenários de alta densidade de drones, especialmente com desafios de comunicação e sincronização.
+
+#### (ii) Percepções
+- A utilização de drones em sistemas multiagentes é promissora para desafios como logística, entretenimento e monitoramento ambiental.
+- O framework JADE mostrou-se eficaz para criar simulações de comportamento cooperativo, mas possui limitações em cenários de falhas devido à centralização do controle.
+
+#### (iii) Contribuições e Fragilidades
+- **Contribuições:**
+  - Desenvolvimento de simulações visuais atrativas, como a formação de padrões gráficos (e.g., "FELIZ 2025").
+  - Documentação detalhada e publicação de código no GitHub, promovendo transparência e reprodutibilidade.
+- **Fragilidades:**
+  - Dependência centralizada no ControllerAgent, limitando a resiliência do sistema.
+  - Falta de testes em drones reais, restringindo a aplicação prática imediata.
+
+#### (iv) Trabalhos Futuros
+- Implementar aprendizado cooperativo para melhorar a inteligência autônoma dos drones.
+- Integrar entradas visuais para replicar imagens em ambientes reais.
+- Realizar experimentos em cenários reais com interações humanas.
+- Desenvolver sistemas de monitoramento interativo para operações cooperativas.
+
+---
+
+## Fontes
+1. **Artigos e Livros**  
+   - WOOLDRIDGE, M. *An introduction to multiagent systems*. John Wiley & Sons, 2009.  
+   - RUSSELL, S.; NORVIG, P. *Artificial Intelligence: A Modern Approach*. Pearson, 2020.  
+   - SÁ, D. F. S.; NETO, J. V. F. *Sistema Multiagente para Formação e Sincronização Utilizando Drones*. Disponível em: [Acesso aqui](https://www.sba.org.br/open_journal_systems/index.php/cba/article/view/1129/1614).  
+
+2. **Repositórios**  
+   - Repositório GitHub do Projeto: [2024.2_G2_SMA_ProjetoComportamentoCooperativo](https://github.com/UnBSMA2024-2/2024.2_G2_SMA_ProjetoComportamentoCooperativo).  
+   - HEMMER, Mathias. *Multiagent Drone System*. Disponível em: [Acesso aqui](https://github.com/MathiasFHemmer/MultiagentDroneSystem).  
+
+3. **Documentação**  
+   - [Documentação do Projeto SMA](https://unbsma2024-2.github.io/2024.2_G2_SMA_ProjetoComportamentoCooperativo/).  
