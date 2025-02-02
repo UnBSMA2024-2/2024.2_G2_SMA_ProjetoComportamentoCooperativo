@@ -93,7 +93,7 @@ Nosso artigo científico está incorporado abaixo para leitura direta:
         </tr>
         <tr>
           <td>1.1</td>
-          <td>27/01/2025</td>
+          <td>26/01/2025</td>
           <td>Adicionando o pdf do artigo científico.</td>
           <td><a href="https://github.com/EduardaSMarques" target="_blank">Maria Eduarda dos Santos Marques</a></td>
           <td><a href="https://github.com/HeBatalha" target="_blank">Henrique Azevedo Batalha,</a>
