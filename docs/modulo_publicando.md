@@ -57,15 +57,25 @@
     &emsp;&emsp;O objetivo do Módulo Publicando foi capacitar os alunos na escrita científica, com foco na produção de artigos acadêmicos para documentar e divulgar os resultados obtidos em nossa frente de pesquisa em Sistemas Multiagentes (SMA). Além disso, o módulo buscou desenvolver habilidades de colaboração em equipe e organização, fundamentais para a entrega de publicações alinhadas aos padrões acadêmicos e à disseminação do conhecimento em diferentes frentes de pesquisa.
   </p>
 
- <h1 style="font-weight: bold; margin-top: 30px; margin-bottom: 10px;">Artigo Científico</h1>
+<h1 style="font-weight: bold; margin-top: 30px; margin-bottom: 10px;">Artigo Científico</h1>
 <p align="justify">
 Nosso artigo científico está incorporado abaixo para leitura direta:
 </p>
 
-<iframe src="https://drive.google.com/file/d/14ziQWAuE72MYhERDddwaPkqg9aiBOGXl/preview" width="1000" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/15jHRA-wPnNXwvPPqy5I9tdAnkgM44Ego/preview" width="1000" height="480" allow="autoplay"></iframe>
 
- <p>Se o arquivo não carregar, clique <a href="https://drive.google.com/file/d/14ziQWAuE72MYhERDddwaPkqg9aiBOGXl/view?usp=sharing" target="_blank">aqui</a> para acessá-lo.</p>
-
+<p>Se o arquivo não carregar, clique <a href="https://drive.google.com/file/d/15jHRA-wPnNXwvPPqy5I9tdAnkgM44Ego/view?usp=sharing" target="_blank">aqui</a> para acessá-lo.</p>
+    <h1 style="font-weight: bold; margin-bottom: 10px;">Apresentação Artigo Científico</h1>
+<div style="text-align: center;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/VAxlfvoGTMQ" 
+            title="YouTube video player" frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+    </iframe>
+</div>
+<p align="justify">
+</p>
+  
   <h1 style="font-weight: bold; margin-top: 30px; margin-bottom: 10px;">Histórico de Versão</h1>
   <p align="justify" class="section-text">
   A Tabela 01 representa o histórico de versão do documento.
@@ -100,6 +110,17 @@ Nosso artigo científico está incorporado abaixo para leitura direta:
           <a href="https://github.com/IsaqueSH" target="_blank">Isaque Santos,</a>
           <a href="https://github.com/gravelylara" target="_blank">Lara Giuliana Lima dos Santos,</a>
           <a href="https://github.com/The-Boss-Nina" target="_blank">Marina Márcia Costa de Souza e</a>
+          <a href="https://github.com/rodrigoFAmaral" target="_blank">Rodrigo Ferreira do Amaral</a></td>
+        </tr>
+        <tr>
+          <td>1.2</td>
+          <td>05/02/2025</td>
+          <td>Adicionando correções do artigo científico e vídeo da apresentação.</td>
+          <td><a href="https://github.com/The-Boss-Nina" target="_blank">Marina Márcia Costa de Souza</a></td>
+          <td><a href="https://github.com/HeBatalha" target="_blank">Henrique Azevedo Batalha,</a>
+          <a href="https://github.com/IsaqueSH" target="_blank">Isaque Santos,</a>
+          <a href="https://github.com/gravelylara" target="_blank">Lara Giuliana Lima dos Santos,</a>
+          <a href="https://github.com/EduardaSMarques" target="_blank">Maria Eduarda dos Santos Marques e</a>
           <a href="https://github.com/rodrigoFAmaral" target="_blank">Rodrigo Ferreira do Amaral</a></td>
         </tr>
       </tbody>
